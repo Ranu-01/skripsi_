@@ -40,13 +40,13 @@
                  <li>
                      <a href="{{ route('transaksi.kasir') }}" class="waves-effect">
                          <i class="bx bxs-calculator"></i>
-                         <span key="t-kasir">Kasir</span>
+                         <span key="t-kasir">Penjualan</span>
                      </a>
                  </li>
                  <li>
                      <a href="{{ route('transaksi.persediaan-masuk') }}" class="waves-effect">
                          <i class="bx bxs-duplicate"></i>
-                         <span key="t-permintaan">Persediaan Masuk</span>
+                         <span key="t-permintaan">Pembelian</span>
                      </a>
                  </li>
  
@@ -55,14 +55,14 @@
                  <li>
                      <a href="{{ route('transaksi.kasir.history') }}" class="waves-effect">
                          <i class="bx bxs-spreadsheet"></i>
-                         <span key="t-kasir">Transaksi Penjualan</span>
+                         <span key="t-kasir">Riwayat Penjualan</span>
                      </a>
                  </li>
  
                  <li>
                      <a href="{{ route('transaksi.persediaan-masuk.history') }}" class="waves-effect">
                          <i class="bx bx-notepad"></i>
-                         <span key="t-kasir">Persediaan Masuk</span>
+                         <span key="t-kasir">Riwayat Pembelian</span>
                      </a>
                  </li>
              </ul>
