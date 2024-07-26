@@ -1,0 +1,4403 @@
+[
+     {
+         "id": "1",
+         "transaksi_id": "1",
+         "master_barang_id": "1",
+         "quantity": "555",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "2",
+         "transaksi_id": "1",
+         "master_barang_id": "2",
+         "quantity": "555",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "3",
+         "transaksi_id": "1",
+         "master_barang_id": "3",
+         "quantity": "555",
+         "harga_barang": "65000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "4",
+         "transaksi_id": "1",
+         "master_barang_id": "4",
+         "quantity": "555",
+         "harga_barang": "40000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "5",
+         "transaksi_id": "1",
+         "master_barang_id": "5",
+         "quantity": "555",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "6",
+         "transaksi_id": "1",
+         "master_barang_id": "6",
+         "quantity": "555",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "7",
+         "transaksi_id": "1",
+         "master_barang_id": "7",
+         "quantity": "555",
+         "harga_barang": "40000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "8",
+         "transaksi_id": "1",
+         "master_barang_id": "8",
+         "quantity": "555",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "9",
+         "transaksi_id": "1",
+         "master_barang_id": "9",
+         "quantity": "555",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "10",
+         "transaksi_id": "1",
+         "master_barang_id": "10",
+         "quantity": "555",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "11",
+         "transaksi_id": "1",
+         "master_barang_id": "11",
+         "quantity": "555",
+         "harga_barang": "80000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "12",
+         "transaksi_id": "1",
+         "master_barang_id": "12",
+         "quantity": "555",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "13",
+         "transaksi_id": "1",
+         "master_barang_id": "13",
+         "quantity": "555",
+         "harga_barang": "45000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "14",
+         "transaksi_id": "1",
+         "master_barang_id": "14",
+         "quantity": "555",
+         "harga_barang": "100000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "15",
+         "transaksi_id": "1",
+         "master_barang_id": "15",
+         "quantity": "555",
+         "harga_barang": "34000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "16",
+         "transaksi_id": "1",
+         "master_barang_id": "16",
+         "quantity": "555",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "17",
+         "transaksi_id": "1",
+         "master_barang_id": "17",
+         "quantity": "555",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "18",
+         "transaksi_id": "1",
+         "master_barang_id": "18",
+         "quantity": "555",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "19",
+         "transaksi_id": "1",
+         "master_barang_id": "19",
+         "quantity": "555",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "20",
+         "transaksi_id": "1",
+         "master_barang_id": "20",
+         "quantity": "555",
+         "harga_barang": "45000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "21",
+         "transaksi_id": "1",
+         "master_barang_id": "21",
+         "quantity": "555",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "22",
+         "transaksi_id": "1",
+         "master_barang_id": "22",
+         "quantity": "555",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "23",
+         "transaksi_id": "1",
+         "master_barang_id": "23",
+         "quantity": "555",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "24",
+         "transaksi_id": "1",
+         "master_barang_id": "24",
+         "quantity": "555",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "25",
+         "transaksi_id": "1",
+         "master_barang_id": "25",
+         "quantity": "555",
+         "harga_barang": "40000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "26",
+         "transaksi_id": "1",
+         "master_barang_id": "26",
+         "quantity": "555",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "27",
+         "transaksi_id": "1",
+         "master_barang_id": "27",
+         "quantity": "555",
+         "harga_barang": "45000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "28",
+         "transaksi_id": "1",
+         "master_barang_id": "28",
+         "quantity": "555",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "29",
+         "transaksi_id": "1",
+         "master_barang_id": "29",
+         "quantity": "555",
+         "harga_barang": "10000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "30",
+         "transaksi_id": "1",
+         "master_barang_id": "30",
+         "quantity": "555",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "31",
+         "transaksi_id": "1",
+         "master_barang_id": "31",
+         "quantity": "555",
+         "harga_barang": "85000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "32",
+         "transaksi_id": "1",
+         "master_barang_id": "32",
+         "quantity": "555",
+         "harga_barang": "80000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "33",
+         "transaksi_id": "1",
+         "master_barang_id": "33",
+         "quantity": "555",
+         "harga_barang": "85000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "34",
+         "transaksi_id": "1",
+         "master_barang_id": "34",
+         "quantity": "555",
+         "harga_barang": "95000",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "35",
+         "transaksi_id": "2",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:10:56",
+         "updated_at": "2024-07-16 19:10:56"
+     },
+     {
+         "id": "36",
+         "transaksi_id": "3",
+         "master_barang_id": "1",
+         "quantity": "3",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:13:38",
+         "updated_at": "2024-07-16 19:13:38"
+     },
+     {
+         "id": "37",
+         "transaksi_id": "3",
+         "master_barang_id": "4",
+         "quantity": "1",
+         "harga_barang": "40000",
+         "created_at": "2024-07-16 19:13:38",
+         "updated_at": "2024-07-16 19:13:38"
+     },
+     {
+         "id": "38",
+         "transaksi_id": "3",
+         "master_barang_id": "5",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:13:38",
+         "updated_at": "2024-07-16 19:13:38"
+     },
+     {
+         "id": "39",
+         "transaksi_id": "3",
+         "master_barang_id": "12",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:13:38",
+         "updated_at": "2024-07-16 19:13:38"
+     },
+     {
+         "id": "40",
+         "transaksi_id": "3",
+         "master_barang_id": "23",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:13:38",
+         "updated_at": "2024-07-16 19:13:38"
+     },
+     {
+         "id": "41",
+         "transaksi_id": "4",
+         "master_barang_id": "12",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:14:59",
+         "updated_at": "2024-07-16 19:14:59"
+     },
+     {
+         "id": "42",
+         "transaksi_id": "5",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:15:24",
+         "updated_at": "2024-07-16 19:15:24"
+     },
+     {
+         "id": "43",
+         "transaksi_id": "6",
+         "master_barang_id": "26",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:18:10",
+         "updated_at": "2024-07-16 19:18:10"
+     },
+     {
+         "id": "44",
+         "transaksi_id": "6",
+         "master_barang_id": "1",
+         "quantity": "7",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:18:10",
+         "updated_at": "2024-07-16 19:18:10"
+     },
+     {
+         "id": "45",
+         "transaksi_id": "6",
+         "master_barang_id": "10",
+         "quantity": "3",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 19:18:10",
+         "updated_at": "2024-07-16 19:18:10"
+     },
+     {
+         "id": "46",
+         "transaksi_id": "6",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:18:10",
+         "updated_at": "2024-07-16 19:18:10"
+     },
+     {
+         "id": "47",
+         "transaksi_id": "7",
+         "master_barang_id": "9",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:20:29",
+         "updated_at": "2024-07-16 19:20:29"
+     },
+     {
+         "id": "48",
+         "transaksi_id": "7",
+         "master_barang_id": "12",
+         "quantity": "3",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:20:29",
+         "updated_at": "2024-07-16 19:20:29"
+     },
+     {
+         "id": "49",
+         "transaksi_id": "7",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 19:20:29",
+         "updated_at": "2024-07-16 19:20:29"
+     },
+     {
+         "id": "50",
+         "transaksi_id": "7",
+         "master_barang_id": "1",
+         "quantity": "3",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:20:29",
+         "updated_at": "2024-07-16 19:20:29"
+     },
+     {
+         "id": "51",
+         "transaksi_id": "7",
+         "master_barang_id": "26",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:20:29",
+         "updated_at": "2024-07-16 19:20:29"
+     },
+     {
+         "id": "52",
+         "transaksi_id": "8",
+         "master_barang_id": "12",
+         "quantity": "3",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:25:30",
+         "updated_at": "2024-07-16 19:25:30"
+     },
+     {
+         "id": "53",
+         "transaksi_id": "8",
+         "master_barang_id": "9",
+         "quantity": "3",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:25:30",
+         "updated_at": "2024-07-16 19:25:30"
+     },
+     {
+         "id": "54",
+         "transaksi_id": "8",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:25:30",
+         "updated_at": "2024-07-16 19:25:30"
+     },
+     {
+         "id": "55",
+         "transaksi_id": "8",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 19:25:30",
+         "updated_at": "2024-07-16 19:25:30"
+     },
+     {
+         "id": "56",
+         "transaksi_id": "8",
+         "master_barang_id": "1",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:25:30",
+         "updated_at": "2024-07-16 19:25:30"
+     },
+     {
+         "id": "57",
+         "transaksi_id": "9",
+         "master_barang_id": "1",
+         "quantity": "9",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:28:15",
+         "updated_at": "2024-07-16 19:28:15"
+     },
+     {
+         "id": "58",
+         "transaksi_id": "9",
+         "master_barang_id": "9",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:28:15",
+         "updated_at": "2024-07-16 19:28:15"
+     },
+     {
+         "id": "59",
+         "transaksi_id": "9",
+         "master_barang_id": "12",
+         "quantity": "3",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:28:15",
+         "updated_at": "2024-07-16 19:28:15"
+     },
+     {
+         "id": "60",
+         "transaksi_id": "9",
+         "master_barang_id": "22",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:28:15",
+         "updated_at": "2024-07-16 19:28:15"
+     },
+     {
+         "id": "61",
+         "transaksi_id": "10",
+         "master_barang_id": "1",
+         "quantity": "4",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:30:31",
+         "updated_at": "2024-07-16 19:30:31"
+     },
+     {
+         "id": "62",
+         "transaksi_id": "10",
+         "master_barang_id": "9",
+         "quantity": "4",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:30:31",
+         "updated_at": "2024-07-16 19:30:31"
+     },
+     {
+         "id": "63",
+         "transaksi_id": "10",
+         "master_barang_id": "10",
+         "quantity": "2",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 19:30:31",
+         "updated_at": "2024-07-16 19:30:31"
+     },
+     {
+         "id": "64",
+         "transaksi_id": "10",
+         "master_barang_id": "12",
+         "quantity": "3",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:30:31",
+         "updated_at": "2024-07-16 19:30:31"
+     },
+     {
+         "id": "65",
+         "transaksi_id": "10",
+         "master_barang_id": "22",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:30:31",
+         "updated_at": "2024-07-16 19:30:31"
+     },
+     {
+         "id": "66",
+         "transaksi_id": "10",
+         "master_barang_id": "23",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:30:31",
+         "updated_at": "2024-07-16 19:30:31"
+     },
+     {
+         "id": "67",
+         "transaksi_id": "10",
+         "master_barang_id": "33",
+         "quantity": "2",
+         "harga_barang": "85000",
+         "created_at": "2024-07-16 19:30:31",
+         "updated_at": "2024-07-16 19:30:31"
+     },
+     {
+         "id": "68",
+         "transaksi_id": "11",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:31:59",
+         "updated_at": "2024-07-16 19:31:59"
+     },
+     {
+         "id": "69",
+         "transaksi_id": "11",
+         "master_barang_id": "9",
+         "quantity": "3",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:31:59",
+         "updated_at": "2024-07-16 19:31:59"
+     },
+     {
+         "id": "70",
+         "transaksi_id": "11",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 19:31:59",
+         "updated_at": "2024-07-16 19:31:59"
+     },
+     {
+         "id": "71",
+         "transaksi_id": "11",
+         "master_barang_id": "12",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:31:59",
+         "updated_at": "2024-07-16 19:31:59"
+     },
+     {
+         "id": "72",
+         "transaksi_id": "12",
+         "master_barang_id": "1",
+         "quantity": "3",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:33:24",
+         "updated_at": "2024-07-16 19:33:24"
+     },
+     {
+         "id": "73",
+         "transaksi_id": "12",
+         "master_barang_id": "9",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:33:24",
+         "updated_at": "2024-07-16 19:33:24"
+     },
+     {
+         "id": "74",
+         "transaksi_id": "12",
+         "master_barang_id": "12",
+         "quantity": "4",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:33:24",
+         "updated_at": "2024-07-16 19:33:24"
+     },
+     {
+         "id": "75",
+         "transaksi_id": "13",
+         "master_barang_id": "1",
+         "quantity": "3",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:35:07",
+         "updated_at": "2024-07-16 19:35:07"
+     },
+     {
+         "id": "76",
+         "transaksi_id": "13",
+         "master_barang_id": "9",
+         "quantity": "3",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:35:07",
+         "updated_at": "2024-07-16 19:35:07"
+     },
+     {
+         "id": "77",
+         "transaksi_id": "13",
+         "master_barang_id": "10",
+         "quantity": "2",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 19:35:07",
+         "updated_at": "2024-07-16 19:35:07"
+     },
+     {
+         "id": "78",
+         "transaksi_id": "13",
+         "master_barang_id": "13",
+         "quantity": "1",
+         "harga_barang": "45000",
+         "created_at": "2024-07-16 19:35:07",
+         "updated_at": "2024-07-16 19:35:07"
+     },
+     {
+         "id": "79",
+         "transaksi_id": "13",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:35:07",
+         "updated_at": "2024-07-16 19:35:07"
+     },
+     {
+         "id": "80",
+         "transaksi_id": "14",
+         "master_barang_id": "1",
+         "quantity": "6",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:35:59",
+         "updated_at": "2024-07-16 19:35:59"
+     },
+     {
+         "id": "81",
+         "transaksi_id": "14",
+         "master_barang_id": "12",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:35:59",
+         "updated_at": "2024-07-16 19:35:59"
+     },
+     {
+         "id": "82",
+         "transaksi_id": "15",
+         "master_barang_id": "1",
+         "quantity": "9",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:37:07",
+         "updated_at": "2024-07-16 19:37:07"
+     },
+     {
+         "id": "83",
+         "transaksi_id": "15",
+         "master_barang_id": "12",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:37:07",
+         "updated_at": "2024-07-16 19:37:07"
+     },
+     {
+         "id": "84",
+         "transaksi_id": "15",
+         "master_barang_id": "22",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:37:07",
+         "updated_at": "2024-07-16 19:37:07"
+     },
+     {
+         "id": "85",
+         "transaksi_id": "16",
+         "master_barang_id": "1",
+         "quantity": "6",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:39:12",
+         "updated_at": "2024-07-16 19:39:12"
+     },
+     {
+         "id": "86",
+         "transaksi_id": "16",
+         "master_barang_id": "9",
+         "quantity": "4",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:39:12",
+         "updated_at": "2024-07-16 19:39:12"
+     },
+     {
+         "id": "87",
+         "transaksi_id": "16",
+         "master_barang_id": "10",
+         "quantity": "4",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 19:39:12",
+         "updated_at": "2024-07-16 19:39:12"
+     },
+     {
+         "id": "88",
+         "transaksi_id": "16",
+         "master_barang_id": "12",
+         "quantity": "3",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:39:12",
+         "updated_at": "2024-07-16 19:39:12"
+     },
+     {
+         "id": "89",
+         "transaksi_id": "16",
+         "master_barang_id": "22",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:39:12",
+         "updated_at": "2024-07-16 19:39:12"
+     },
+     {
+         "id": "90",
+         "transaksi_id": "17",
+         "master_barang_id": "12",
+         "quantity": "3",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:40:58",
+         "updated_at": "2024-07-16 19:40:58"
+     },
+     {
+         "id": "91",
+         "transaksi_id": "17",
+         "master_barang_id": "22",
+         "quantity": "4",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:40:58",
+         "updated_at": "2024-07-16 19:40:58"
+     },
+     {
+         "id": "92",
+         "transaksi_id": "17",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:40:58",
+         "updated_at": "2024-07-16 19:40:58"
+     },
+     {
+         "id": "93",
+         "transaksi_id": "18",
+         "master_barang_id": "1",
+         "quantity": "4",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:42:46",
+         "updated_at": "2024-07-16 19:42:46"
+     },
+     {
+         "id": "94",
+         "transaksi_id": "18",
+         "master_barang_id": "9",
+         "quantity": "5",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:42:46",
+         "updated_at": "2024-07-16 19:42:46"
+     },
+     {
+         "id": "95",
+         "transaksi_id": "18",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 19:42:46",
+         "updated_at": "2024-07-16 19:42:46"
+     },
+     {
+         "id": "96",
+         "transaksi_id": "18",
+         "master_barang_id": "12",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:42:46",
+         "updated_at": "2024-07-16 19:42:46"
+     },
+     {
+         "id": "97",
+         "transaksi_id": "18",
+         "master_barang_id": "22",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:42:46",
+         "updated_at": "2024-07-16 19:42:46"
+     },
+     {
+         "id": "98",
+         "transaksi_id": "18",
+         "master_barang_id": "26",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:42:46",
+         "updated_at": "2024-07-16 19:42:46"
+     },
+     {
+         "id": "99",
+         "transaksi_id": "19",
+         "master_barang_id": "12",
+         "quantity": "3",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:45:24",
+         "updated_at": "2024-07-16 19:45:24"
+     },
+     {
+         "id": "100",
+         "transaksi_id": "19",
+         "master_barang_id": "26",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:45:24",
+         "updated_at": "2024-07-16 19:45:24"
+     },
+     {
+         "id": "101",
+         "transaksi_id": "19",
+         "master_barang_id": "1",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:45:24",
+         "updated_at": "2024-07-16 19:45:24"
+     },
+     {
+         "id": "102",
+         "transaksi_id": "19",
+         "master_barang_id": "9",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:45:24",
+         "updated_at": "2024-07-16 19:45:24"
+     },
+     {
+         "id": "103",
+         "transaksi_id": "19",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:45:24",
+         "updated_at": "2024-07-16 19:45:24"
+     },
+     {
+         "id": "104",
+         "transaksi_id": "20",
+         "master_barang_id": "1",
+         "quantity": "3",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:46:19",
+         "updated_at": "2024-07-16 19:46:19"
+     },
+     {
+         "id": "105",
+         "transaksi_id": "20",
+         "master_barang_id": "26",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:46:19",
+         "updated_at": "2024-07-16 19:46:19"
+     },
+     {
+         "id": "106",
+         "transaksi_id": "21",
+         "master_barang_id": "1",
+         "quantity": "5",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:47:56",
+         "updated_at": "2024-07-16 19:47:56"
+     },
+     {
+         "id": "107",
+         "transaksi_id": "21",
+         "master_barang_id": "9",
+         "quantity": "3",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:47:56",
+         "updated_at": "2024-07-16 19:47:56"
+     },
+     {
+         "id": "108",
+         "transaksi_id": "21",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 19:47:56",
+         "updated_at": "2024-07-16 19:47:56"
+     },
+     {
+         "id": "109",
+         "transaksi_id": "21",
+         "master_barang_id": "12",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:47:56",
+         "updated_at": "2024-07-16 19:47:56"
+     },
+     {
+         "id": "110",
+         "transaksi_id": "21",
+         "master_barang_id": "22",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:47:56",
+         "updated_at": "2024-07-16 19:47:56"
+     },
+     {
+         "id": "111",
+         "transaksi_id": "21",
+         "master_barang_id": "26",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:47:56",
+         "updated_at": "2024-07-16 19:47:56"
+     },
+     {
+         "id": "112",
+         "transaksi_id": "22",
+         "master_barang_id": "22",
+         "quantity": "3",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:49:41",
+         "updated_at": "2024-07-16 19:49:41"
+     },
+     {
+         "id": "113",
+         "transaksi_id": "22",
+         "master_barang_id": "9",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:49:41",
+         "updated_at": "2024-07-16 19:49:41"
+     },
+     {
+         "id": "114",
+         "transaksi_id": "22",
+         "master_barang_id": "15",
+         "quantity": "1",
+         "harga_barang": "34000",
+         "created_at": "2024-07-16 19:49:41",
+         "updated_at": "2024-07-16 19:49:41"
+     },
+     {
+         "id": "115",
+         "transaksi_id": "23",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:51:46",
+         "updated_at": "2024-07-16 19:51:46"
+     },
+     {
+         "id": "116",
+         "transaksi_id": "23",
+         "master_barang_id": "9",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:51:46",
+         "updated_at": "2024-07-16 19:51:46"
+     },
+     {
+         "id": "117",
+         "transaksi_id": "23",
+         "master_barang_id": "12",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:51:46",
+         "updated_at": "2024-07-16 19:51:46"
+     },
+     {
+         "id": "118",
+         "transaksi_id": "23",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:51:46",
+         "updated_at": "2024-07-16 19:51:46"
+     },
+     {
+         "id": "119",
+         "transaksi_id": "24",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:52:19",
+         "updated_at": "2024-07-16 19:52:19"
+     },
+     {
+         "id": "120",
+         "transaksi_id": "24",
+         "master_barang_id": "9",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:52:19",
+         "updated_at": "2024-07-16 19:52:19"
+     },
+     {
+         "id": "121",
+         "transaksi_id": "25",
+         "master_barang_id": "26",
+         "quantity": "3",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:53:27",
+         "updated_at": "2024-07-16 19:53:27"
+     },
+     {
+         "id": "122",
+         "transaksi_id": "25",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:53:27",
+         "updated_at": "2024-07-16 19:53:27"
+     },
+     {
+         "id": "123",
+         "transaksi_id": "26",
+         "master_barang_id": "9",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:55:08",
+         "updated_at": "2024-07-16 19:55:08"
+     },
+     {
+         "id": "124",
+         "transaksi_id": "26",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 19:55:08",
+         "updated_at": "2024-07-16 19:55:08"
+     },
+     {
+         "id": "125",
+         "transaksi_id": "26",
+         "master_barang_id": "12",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:55:08",
+         "updated_at": "2024-07-16 19:55:08"
+     },
+     {
+         "id": "126",
+         "transaksi_id": "26",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:55:08",
+         "updated_at": "2024-07-16 19:55:08"
+     },
+     {
+         "id": "127",
+         "transaksi_id": "27",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:55:27",
+         "updated_at": "2024-07-16 19:55:27"
+     },
+     {
+         "id": "128",
+         "transaksi_id": "28",
+         "master_barang_id": "1",
+         "quantity": "3",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:56:09",
+         "updated_at": "2024-07-16 19:56:09"
+     },
+     {
+         "id": "129",
+         "transaksi_id": "28",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 19:56:09",
+         "updated_at": "2024-07-16 19:56:09"
+     },
+     {
+         "id": "130",
+         "transaksi_id": "29",
+         "master_barang_id": "9",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:57:12",
+         "updated_at": "2024-07-16 19:57:12"
+     },
+     {
+         "id": "131",
+         "transaksi_id": "30",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:58:19",
+         "updated_at": "2024-07-16 19:58:19"
+     },
+     {
+         "id": "132",
+         "transaksi_id": "30",
+         "master_barang_id": "9",
+         "quantity": "3",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:58:19",
+         "updated_at": "2024-07-16 19:58:19"
+     },
+     {
+         "id": "133",
+         "transaksi_id": "30",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:58:19",
+         "updated_at": "2024-07-16 19:58:19"
+     },
+     {
+         "id": "134",
+         "transaksi_id": "31",
+         "master_barang_id": "1",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:59:15",
+         "updated_at": "2024-07-16 19:59:15"
+     },
+     {
+         "id": "135",
+         "transaksi_id": "32",
+         "master_barang_id": "22",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 19:59:39",
+         "updated_at": "2024-07-16 19:59:39"
+     },
+     {
+         "id": "136",
+         "transaksi_id": "32",
+         "master_barang_id": "26",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 19:59:39",
+         "updated_at": "2024-07-16 19:59:39"
+     },
+     {
+         "id": "137",
+         "transaksi_id": "33",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 20:00:35",
+         "updated_at": "2024-07-16 20:00:35"
+     },
+     {
+         "id": "138",
+         "transaksi_id": "33",
+         "master_barang_id": "9",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:00:35",
+         "updated_at": "2024-07-16 20:00:35"
+     },
+     {
+         "id": "139",
+         "transaksi_id": "34",
+         "master_barang_id": "1",
+         "quantity": "5",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:02:22",
+         "updated_at": "2024-07-16 20:02:22"
+     },
+     {
+         "id": "140",
+         "transaksi_id": "34",
+         "master_barang_id": "9",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:02:22",
+         "updated_at": "2024-07-16 20:02:22"
+     },
+     {
+         "id": "141",
+         "transaksi_id": "34",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 20:02:22",
+         "updated_at": "2024-07-16 20:02:22"
+     },
+     {
+         "id": "142",
+         "transaksi_id": "34",
+         "master_barang_id": "13",
+         "quantity": "1",
+         "harga_barang": "45000",
+         "created_at": "2024-07-16 20:02:22",
+         "updated_at": "2024-07-16 20:02:22"
+     },
+     {
+         "id": "143",
+         "transaksi_id": "34",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:02:22",
+         "updated_at": "2024-07-16 20:02:22"
+     },
+     {
+         "id": "144",
+         "transaksi_id": "35",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:03:18",
+         "updated_at": "2024-07-16 20:03:18"
+     },
+     {
+         "id": "145",
+         "transaksi_id": "35",
+         "master_barang_id": "13",
+         "quantity": "1",
+         "harga_barang": "45000",
+         "created_at": "2024-07-16 20:03:18",
+         "updated_at": "2024-07-16 20:03:18"
+     },
+     {
+         "id": "146",
+         "transaksi_id": "36",
+         "master_barang_id": "1",
+         "quantity": "3",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:04:18",
+         "updated_at": "2024-07-16 20:04:18"
+     },
+     {
+         "id": "147",
+         "transaksi_id": "36",
+         "master_barang_id": "9",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:04:18",
+         "updated_at": "2024-07-16 20:04:18"
+     },
+     {
+         "id": "148",
+         "transaksi_id": "36",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 20:04:18",
+         "updated_at": "2024-07-16 20:04:18"
+     },
+     {
+         "id": "149",
+         "transaksi_id": "37",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:05:03",
+         "updated_at": "2024-07-16 20:05:03"
+     },
+     {
+         "id": "150",
+         "transaksi_id": "38",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:06:09",
+         "updated_at": "2024-07-16 20:06:09"
+     },
+     {
+         "id": "151",
+         "transaksi_id": "38",
+         "master_barang_id": "26",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:06:09",
+         "updated_at": "2024-07-16 20:06:09"
+     },
+     {
+         "id": "152",
+         "transaksi_id": "38",
+         "master_barang_id": "1",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:06:09",
+         "updated_at": "2024-07-16 20:06:09"
+     },
+     {
+         "id": "153",
+         "transaksi_id": "39",
+         "master_barang_id": "1",
+         "quantity": "6",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:07:21",
+         "updated_at": "2024-07-16 20:07:21"
+     },
+     {
+         "id": "154",
+         "transaksi_id": "39",
+         "master_barang_id": "9",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:07:21",
+         "updated_at": "2024-07-16 20:07:21"
+     },
+     {
+         "id": "155",
+         "transaksi_id": "39",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:07:21",
+         "updated_at": "2024-07-16 20:07:21"
+     },
+     {
+         "id": "156",
+         "transaksi_id": "40",
+         "master_barang_id": "9",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:07:55",
+         "updated_at": "2024-07-16 20:07:55"
+     },
+     {
+         "id": "157",
+         "transaksi_id": "41",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:08:07",
+         "updated_at": "2024-07-16 20:08:07"
+     },
+     {
+         "id": "158",
+         "transaksi_id": "42",
+         "master_barang_id": "1",
+         "quantity": "6",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:08:42",
+         "updated_at": "2024-07-16 20:08:42"
+     },
+     {
+         "id": "159",
+         "transaksi_id": "43",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 20:09:11",
+         "updated_at": "2024-07-16 20:09:11"
+     },
+     {
+         "id": "160",
+         "transaksi_id": "43",
+         "master_barang_id": "26",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:09:11",
+         "updated_at": "2024-07-16 20:09:11"
+     },
+     {
+         "id": "161",
+         "transaksi_id": "44",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 20:09:54",
+         "updated_at": "2024-07-16 20:09:54"
+     },
+     {
+         "id": "162",
+         "transaksi_id": "45",
+         "master_barang_id": "1",
+         "quantity": "6",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:11:25",
+         "updated_at": "2024-07-16 20:11:25"
+     },
+     {
+         "id": "163",
+         "transaksi_id": "45",
+         "master_barang_id": "9",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:11:25",
+         "updated_at": "2024-07-16 20:11:25"
+     },
+     {
+         "id": "164",
+         "transaksi_id": "45",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 20:11:25",
+         "updated_at": "2024-07-16 20:11:25"
+     },
+     {
+         "id": "165",
+         "transaksi_id": "45",
+         "master_barang_id": "12",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:11:25",
+         "updated_at": "2024-07-16 20:11:25"
+     },
+     {
+         "id": "166",
+         "transaksi_id": "45",
+         "master_barang_id": "13",
+         "quantity": "1",
+         "harga_barang": "45000",
+         "created_at": "2024-07-16 20:11:25",
+         "updated_at": "2024-07-16 20:11:25"
+     },
+     {
+         "id": "167",
+         "transaksi_id": "45",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:11:25",
+         "updated_at": "2024-07-16 20:11:25"
+     },
+     {
+         "id": "168",
+         "transaksi_id": "46",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:12:23",
+         "updated_at": "2024-07-16 20:12:23"
+     },
+     {
+         "id": "169",
+         "transaksi_id": "47",
+         "master_barang_id": "26",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:12:40",
+         "updated_at": "2024-07-16 20:12:40"
+     },
+     {
+         "id": "170",
+         "transaksi_id": "48",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:13:24",
+         "updated_at": "2024-07-16 20:13:24"
+     },
+     {
+         "id": "171",
+         "transaksi_id": "48",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 20:13:24",
+         "updated_at": "2024-07-16 20:13:24"
+     },
+     {
+         "id": "172",
+         "transaksi_id": "48",
+         "master_barang_id": "9",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:13:24",
+         "updated_at": "2024-07-16 20:13:24"
+     },
+     {
+         "id": "173",
+         "transaksi_id": "49",
+         "master_barang_id": "1",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:13:57",
+         "updated_at": "2024-07-16 20:13:57"
+     },
+     {
+         "id": "174",
+         "transaksi_id": "49",
+         "master_barang_id": "9",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:13:57",
+         "updated_at": "2024-07-16 20:13:57"
+     },
+     {
+         "id": "175",
+         "transaksi_id": "50",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 20:17:07",
+         "updated_at": "2024-07-16 20:17:07"
+     },
+     {
+         "id": "176",
+         "transaksi_id": "51",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:17:42",
+         "updated_at": "2024-07-16 20:17:42"
+     },
+     {
+         "id": "177",
+         "transaksi_id": "51",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:17:42",
+         "updated_at": "2024-07-16 20:17:42"
+     },
+     {
+         "id": "178",
+         "transaksi_id": "52",
+         "master_barang_id": "1",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:18:01",
+         "updated_at": "2024-07-16 20:18:01"
+     },
+     {
+         "id": "179",
+         "transaksi_id": "53",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:18:39",
+         "updated_at": "2024-07-16 20:18:39"
+     },
+     {
+         "id": "180",
+         "transaksi_id": "53",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 20:18:39",
+         "updated_at": "2024-07-16 20:18:39"
+     },
+     {
+         "id": "181",
+         "transaksi_id": "53",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:18:39",
+         "updated_at": "2024-07-16 20:18:39"
+     },
+     {
+         "id": "182",
+         "transaksi_id": "54",
+         "master_barang_id": "1",
+         "quantity": "3",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:19:22",
+         "updated_at": "2024-07-16 20:19:22"
+     },
+     {
+         "id": "183",
+         "transaksi_id": "54",
+         "master_barang_id": "22",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:19:22",
+         "updated_at": "2024-07-16 20:19:22"
+     },
+     {
+         "id": "184",
+         "transaksi_id": "55",
+         "master_barang_id": "22",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:19:43",
+         "updated_at": "2024-07-16 20:19:43"
+     },
+     {
+         "id": "185",
+         "transaksi_id": "56",
+         "master_barang_id": "1",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:20:09",
+         "updated_at": "2024-07-16 20:20:09"
+     },
+     {
+         "id": "186",
+         "transaksi_id": "56",
+         "master_barang_id": "9",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:20:09",
+         "updated_at": "2024-07-16 20:20:09"
+     },
+     {
+         "id": "187",
+         "transaksi_id": "57",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:20:24",
+         "updated_at": "2024-07-16 20:20:24"
+     },
+     {
+         "id": "188",
+         "transaksi_id": "58",
+         "master_barang_id": "9",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:21:01",
+         "updated_at": "2024-07-16 20:21:01"
+     },
+     {
+         "id": "189",
+         "transaksi_id": "59",
+         "master_barang_id": "9",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:21:46",
+         "updated_at": "2024-07-16 20:21:46"
+     },
+     {
+         "id": "190",
+         "transaksi_id": "59",
+         "master_barang_id": "26",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:21:46",
+         "updated_at": "2024-07-16 20:21:46"
+     },
+     {
+         "id": "191",
+         "transaksi_id": "59",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:21:46",
+         "updated_at": "2024-07-16 20:21:46"
+     },
+     {
+         "id": "192",
+         "transaksi_id": "60",
+         "master_barang_id": "1",
+         "quantity": "3",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:22:45",
+         "updated_at": "2024-07-16 20:22:45"
+     },
+     {
+         "id": "193",
+         "transaksi_id": "60",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:22:45",
+         "updated_at": "2024-07-16 20:22:45"
+     },
+     {
+         "id": "194",
+         "transaksi_id": "60",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 20:22:45",
+         "updated_at": "2024-07-16 20:22:45"
+     },
+     {
+         "id": "195",
+         "transaksi_id": "61",
+         "master_barang_id": "1",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:23:04",
+         "updated_at": "2024-07-16 20:23:04"
+     },
+     {
+         "id": "196",
+         "transaksi_id": "62",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:24:18",
+         "updated_at": "2024-07-16 20:24:18"
+     },
+     {
+         "id": "197",
+         "transaksi_id": "62",
+         "master_barang_id": "12",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:24:18",
+         "updated_at": "2024-07-16 20:24:18"
+     },
+     {
+         "id": "198",
+         "transaksi_id": "62",
+         "master_barang_id": "9",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:24:18",
+         "updated_at": "2024-07-16 20:24:18"
+     },
+     {
+         "id": "199",
+         "transaksi_id": "63",
+         "master_barang_id": "9",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:24:39",
+         "updated_at": "2024-07-16 20:24:39"
+     },
+     {
+         "id": "200",
+         "transaksi_id": "63",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:24:39",
+         "updated_at": "2024-07-16 20:24:39"
+     },
+     {
+         "id": "201",
+         "transaksi_id": "64",
+         "master_barang_id": "9",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:24:57",
+         "updated_at": "2024-07-16 20:24:57"
+     },
+     {
+         "id": "202",
+         "transaksi_id": "65",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:25:26",
+         "updated_at": "2024-07-16 20:25:26"
+     },
+     {
+         "id": "203",
+         "transaksi_id": "65",
+         "master_barang_id": "9",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:25:26",
+         "updated_at": "2024-07-16 20:25:26"
+     },
+     {
+         "id": "204",
+         "transaksi_id": "66",
+         "master_barang_id": "26",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:26:02",
+         "updated_at": "2024-07-16 20:26:02"
+     },
+     {
+         "id": "205",
+         "transaksi_id": "66",
+         "master_barang_id": "9",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:26:02",
+         "updated_at": "2024-07-16 20:26:02"
+     },
+     {
+         "id": "206",
+         "transaksi_id": "67",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:26:34",
+         "updated_at": "2024-07-16 20:26:34"
+     },
+     {
+         "id": "207",
+         "transaksi_id": "67",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:26:34",
+         "updated_at": "2024-07-16 20:26:34"
+     },
+     {
+         "id": "208",
+         "transaksi_id": "68",
+         "master_barang_id": "9",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:27:02",
+         "updated_at": "2024-07-16 20:27:02"
+     },
+     {
+         "id": "209",
+         "transaksi_id": "69",
+         "master_barang_id": "9",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:27:23",
+         "updated_at": "2024-07-16 20:27:23"
+     },
+     {
+         "id": "210",
+         "transaksi_id": "70",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:27:59",
+         "updated_at": "2024-07-16 20:27:59"
+     },
+     {
+         "id": "211",
+         "transaksi_id": "70",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:27:59",
+         "updated_at": "2024-07-16 20:27:59"
+     },
+     {
+         "id": "212",
+         "transaksi_id": "71",
+         "master_barang_id": "9",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:28:26",
+         "updated_at": "2024-07-16 20:28:26"
+     },
+     {
+         "id": "213",
+         "transaksi_id": "72",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:28:51",
+         "updated_at": "2024-07-16 20:28:51"
+     },
+     {
+         "id": "214",
+         "transaksi_id": "72",
+         "master_barang_id": "9",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:28:51",
+         "updated_at": "2024-07-16 20:28:51"
+     },
+     {
+         "id": "215",
+         "transaksi_id": "73",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:35:19",
+         "updated_at": "2024-07-16 20:35:19"
+     },
+     {
+         "id": "216",
+         "transaksi_id": "73",
+         "master_barang_id": "5",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:35:19",
+         "updated_at": "2024-07-16 20:35:19"
+     },
+     {
+         "id": "217",
+         "transaksi_id": "73",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:35:19",
+         "updated_at": "2024-07-16 20:35:19"
+     },
+     {
+         "id": "218",
+         "transaksi_id": "74",
+         "master_barang_id": "5",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:35:36",
+         "updated_at": "2024-07-16 20:35:36"
+     },
+     {
+         "id": "219",
+         "transaksi_id": "75",
+         "master_barang_id": "5",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:36:09",
+         "updated_at": "2024-07-16 20:36:09"
+     },
+     {
+         "id": "220",
+         "transaksi_id": "75",
+         "master_barang_id": "27",
+         "quantity": "2",
+         "harga_barang": "45000",
+         "created_at": "2024-07-16 20:36:09",
+         "updated_at": "2024-07-16 20:36:09"
+     },
+     {
+         "id": "221",
+         "transaksi_id": "76",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:36:44",
+         "updated_at": "2024-07-16 20:36:44"
+     },
+     {
+         "id": "222",
+         "transaksi_id": "76",
+         "master_barang_id": "5",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:36:44",
+         "updated_at": "2024-07-16 20:36:44"
+     },
+     {
+         "id": "223",
+         "transaksi_id": "77",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:37:25",
+         "updated_at": "2024-07-16 20:37:25"
+     },
+     {
+         "id": "224",
+         "transaksi_id": "78",
+         "master_barang_id": "10",
+         "quantity": "2",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 20:38:55",
+         "updated_at": "2024-07-16 20:38:55"
+     },
+     {
+         "id": "225",
+         "transaksi_id": "78",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:38:55",
+         "updated_at": "2024-07-16 20:38:55"
+     },
+     {
+         "id": "226",
+         "transaksi_id": "79",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 20:39:48",
+         "updated_at": "2024-07-16 20:39:48"
+     },
+     {
+         "id": "227",
+         "transaksi_id": "79",
+         "master_barang_id": "27",
+         "quantity": "1",
+         "harga_barang": "45000",
+         "created_at": "2024-07-16 20:39:48",
+         "updated_at": "2024-07-16 20:39:48"
+     },
+     {
+         "id": "228",
+         "transaksi_id": "79",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:39:48",
+         "updated_at": "2024-07-16 20:39:48"
+     },
+     {
+         "id": "229",
+         "transaksi_id": "80",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:40:43",
+         "updated_at": "2024-07-16 20:40:43"
+     },
+     {
+         "id": "230",
+         "transaksi_id": "80",
+         "master_barang_id": "22",
+         "quantity": "3",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:40:43",
+         "updated_at": "2024-07-16 20:40:43"
+     },
+     {
+         "id": "231",
+         "transaksi_id": "80",
+         "master_barang_id": "12",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:40:43",
+         "updated_at": "2024-07-16 20:40:43"
+     },
+     {
+         "id": "232",
+         "transaksi_id": "81",
+         "master_barang_id": "5",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:41:16",
+         "updated_at": "2024-07-16 20:41:16"
+     },
+     {
+         "id": "233",
+         "transaksi_id": "81",
+         "master_barang_id": "12",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:41:16",
+         "updated_at": "2024-07-16 20:41:16"
+     },
+     {
+         "id": "234",
+         "transaksi_id": "82",
+         "master_barang_id": "1",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:41:31",
+         "updated_at": "2024-07-16 20:41:31"
+     },
+     {
+         "id": "235",
+         "transaksi_id": "83",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:42:52",
+         "updated_at": "2024-07-16 20:42:52"
+     },
+     {
+         "id": "236",
+         "transaksi_id": "83",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 20:42:52",
+         "updated_at": "2024-07-16 20:42:52"
+     },
+     {
+         "id": "237",
+         "transaksi_id": "83",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:42:52",
+         "updated_at": "2024-07-16 20:42:52"
+     },
+     {
+         "id": "238",
+         "transaksi_id": "83",
+         "master_barang_id": "13",
+         "quantity": "1",
+         "harga_barang": "45000",
+         "created_at": "2024-07-16 20:42:52",
+         "updated_at": "2024-07-16 20:42:52"
+     },
+     {
+         "id": "239",
+         "transaksi_id": "83",
+         "master_barang_id": "12",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:42:52",
+         "updated_at": "2024-07-16 20:42:52"
+     },
+     {
+         "id": "240",
+         "transaksi_id": "84",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:43:31",
+         "updated_at": "2024-07-16 20:43:31"
+     },
+     {
+         "id": "241",
+         "transaksi_id": "84",
+         "master_barang_id": "26",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:43:31",
+         "updated_at": "2024-07-16 20:43:31"
+     },
+     {
+         "id": "242",
+         "transaksi_id": "85",
+         "master_barang_id": "9",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:44:45",
+         "updated_at": "2024-07-16 20:44:45"
+     },
+     {
+         "id": "243",
+         "transaksi_id": "85",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 20:44:45",
+         "updated_at": "2024-07-16 20:44:45"
+     },
+     {
+         "id": "244",
+         "transaksi_id": "85",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:44:45",
+         "updated_at": "2024-07-16 20:44:45"
+     },
+     {
+         "id": "245",
+         "transaksi_id": "86",
+         "master_barang_id": "1",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:46:18",
+         "updated_at": "2024-07-16 20:46:18"
+     },
+     {
+         "id": "246",
+         "transaksi_id": "86",
+         "master_barang_id": "9",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:46:18",
+         "updated_at": "2024-07-16 20:46:18"
+     },
+     {
+         "id": "247",
+         "transaksi_id": "86",
+         "master_barang_id": "22",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:46:18",
+         "updated_at": "2024-07-16 20:46:18"
+     },
+     {
+         "id": "248",
+         "transaksi_id": "86",
+         "master_barang_id": "12",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:46:18",
+         "updated_at": "2024-07-16 20:46:18"
+     },
+     {
+         "id": "249",
+         "transaksi_id": "87",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:46:48",
+         "updated_at": "2024-07-16 20:46:48"
+     },
+     {
+         "id": "250",
+         "transaksi_id": "88",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:47:36",
+         "updated_at": "2024-07-16 20:47:36"
+     },
+     {
+         "id": "251",
+         "transaksi_id": "88",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:47:36",
+         "updated_at": "2024-07-16 20:47:36"
+     },
+     {
+         "id": "252",
+         "transaksi_id": "88",
+         "master_barang_id": "10",
+         "quantity": "2",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 20:47:36",
+         "updated_at": "2024-07-16 20:47:36"
+     },
+     {
+         "id": "253",
+         "transaksi_id": "89",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 20:48:01",
+         "updated_at": "2024-07-16 20:48:01"
+     },
+     {
+         "id": "254",
+         "transaksi_id": "90",
+         "master_barang_id": "33",
+         "quantity": "1",
+         "harga_barang": "85000",
+         "created_at": "2024-07-16 20:50:25",
+         "updated_at": "2024-07-16 20:50:25"
+     },
+     {
+         "id": "255",
+         "transaksi_id": "90",
+         "master_barang_id": "26",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:50:25",
+         "updated_at": "2024-07-16 20:50:25"
+     },
+     {
+         "id": "256",
+         "transaksi_id": "90",
+         "master_barang_id": "9",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:50:25",
+         "updated_at": "2024-07-16 20:50:25"
+     },
+     {
+         "id": "257",
+         "transaksi_id": "90",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:50:25",
+         "updated_at": "2024-07-16 20:50:25"
+     },
+     {
+         "id": "258",
+         "transaksi_id": "91",
+         "master_barang_id": "1",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:52:10",
+         "updated_at": "2024-07-16 20:52:10"
+     },
+     {
+         "id": "259",
+         "transaksi_id": "91",
+         "master_barang_id": "5",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:52:10",
+         "updated_at": "2024-07-16 20:52:10"
+     },
+     {
+         "id": "260",
+         "transaksi_id": "91",
+         "master_barang_id": "12",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:52:10",
+         "updated_at": "2024-07-16 20:52:10"
+     },
+     {
+         "id": "261",
+         "transaksi_id": "92",
+         "master_barang_id": "1",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:52:50",
+         "updated_at": "2024-07-16 20:52:50"
+     },
+     {
+         "id": "262",
+         "transaksi_id": "92",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 20:52:50",
+         "updated_at": "2024-07-16 20:52:50"
+     },
+     {
+         "id": "263",
+         "transaksi_id": "92",
+         "master_barang_id": "5",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:52:50",
+         "updated_at": "2024-07-16 20:52:50"
+     },
+     {
+         "id": "264",
+         "transaksi_id": "93",
+         "master_barang_id": "9",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:53:24",
+         "updated_at": "2024-07-16 20:53:24"
+     },
+     {
+         "id": "265",
+         "transaksi_id": "93",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:53:24",
+         "updated_at": "2024-07-16 20:53:24"
+     },
+     {
+         "id": "266",
+         "transaksi_id": "94",
+         "master_barang_id": "26",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:53:39",
+         "updated_at": "2024-07-16 20:53:39"
+     },
+     {
+         "id": "267",
+         "transaksi_id": "95",
+         "master_barang_id": "1",
+         "quantity": "4",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:54:02",
+         "updated_at": "2024-07-16 20:54:02"
+     },
+     {
+         "id": "268",
+         "transaksi_id": "96",
+         "master_barang_id": "1",
+         "quantity": "6",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:54:48",
+         "updated_at": "2024-07-16 20:54:48"
+     },
+     {
+         "id": "269",
+         "transaksi_id": "96",
+         "master_barang_id": "9",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:54:48",
+         "updated_at": "2024-07-16 20:54:48"
+     },
+     {
+         "id": "270",
+         "transaksi_id": "97",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:55:31",
+         "updated_at": "2024-07-16 20:55:31"
+     },
+     {
+         "id": "271",
+         "transaksi_id": "97",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:55:31",
+         "updated_at": "2024-07-16 20:55:31"
+     },
+     {
+         "id": "272",
+         "transaksi_id": "98",
+         "master_barang_id": "5",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:56:03",
+         "updated_at": "2024-07-16 20:56:03"
+     },
+     {
+         "id": "273",
+         "transaksi_id": "98",
+         "master_barang_id": "22",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:56:03",
+         "updated_at": "2024-07-16 20:56:03"
+     },
+     {
+         "id": "274",
+         "transaksi_id": "99",
+         "master_barang_id": "1",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:57:09",
+         "updated_at": "2024-07-16 20:57:09"
+     },
+     {
+         "id": "275",
+         "transaksi_id": "99",
+         "master_barang_id": "5",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:57:09",
+         "updated_at": "2024-07-16 20:57:09"
+     },
+     {
+         "id": "276",
+         "transaksi_id": "99",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 20:57:09",
+         "updated_at": "2024-07-16 20:57:09"
+     },
+     {
+         "id": "277",
+         "transaksi_id": "100",
+         "master_barang_id": "5",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 20:57:41",
+         "updated_at": "2024-07-16 20:57:41"
+     },
+     {
+         "id": "278",
+         "transaksi_id": "100",
+         "master_barang_id": "31",
+         "quantity": "1",
+         "harga_barang": "85000",
+         "created_at": "2024-07-16 20:57:41",
+         "updated_at": "2024-07-16 20:57:41"
+     },
+     {
+         "id": "279",
+         "transaksi_id": "101",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:59:04",
+         "updated_at": "2024-07-16 20:59:04"
+     },
+     {
+         "id": "280",
+         "transaksi_id": "101",
+         "master_barang_id": "9",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:59:04",
+         "updated_at": "2024-07-16 20:59:04"
+     },
+     {
+         "id": "281",
+         "transaksi_id": "101",
+         "master_barang_id": "26",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 20:59:04",
+         "updated_at": "2024-07-16 20:59:04"
+     },
+     {
+         "id": "282",
+         "transaksi_id": "102",
+         "master_barang_id": "9",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:00:09",
+         "updated_at": "2024-07-16 21:00:09"
+     },
+     {
+         "id": "283",
+         "transaksi_id": "102",
+         "master_barang_id": "26",
+         "quantity": "3",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:00:09",
+         "updated_at": "2024-07-16 21:00:09"
+     },
+     {
+         "id": "284",
+         "transaksi_id": "103",
+         "master_barang_id": "12",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:00:34",
+         "updated_at": "2024-07-16 21:00:34"
+     },
+     {
+         "id": "285",
+         "transaksi_id": "104",
+         "master_barang_id": "26",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:00:46",
+         "updated_at": "2024-07-16 21:00:46"
+     },
+     {
+         "id": "286",
+         "transaksi_id": "105",
+         "master_barang_id": "5",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:01:28",
+         "updated_at": "2024-07-16 21:01:28"
+     },
+     {
+         "id": "287",
+         "transaksi_id": "105",
+         "master_barang_id": "1",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:01:28",
+         "updated_at": "2024-07-16 21:01:28"
+     },
+     {
+         "id": "288",
+         "transaksi_id": "105",
+         "master_barang_id": "12",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:01:28",
+         "updated_at": "2024-07-16 21:01:28"
+     },
+     {
+         "id": "289",
+         "transaksi_id": "106",
+         "master_barang_id": "13",
+         "quantity": "1",
+         "harga_barang": "45000",
+         "created_at": "2024-07-16 21:02:01",
+         "updated_at": "2024-07-16 21:02:01"
+     },
+     {
+         "id": "290",
+         "transaksi_id": "106",
+         "master_barang_id": "26",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:02:01",
+         "updated_at": "2024-07-16 21:02:01"
+     },
+     {
+         "id": "291",
+         "transaksi_id": "107",
+         "master_barang_id": "9",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:03:07",
+         "updated_at": "2024-07-16 21:03:07"
+     },
+     {
+         "id": "292",
+         "transaksi_id": "108",
+         "master_barang_id": "12",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:03:26",
+         "updated_at": "2024-07-16 21:03:26"
+     },
+     {
+         "id": "293",
+         "transaksi_id": "109",
+         "master_barang_id": "12",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:03:39",
+         "updated_at": "2024-07-16 21:03:39"
+     },
+     {
+         "id": "294",
+         "transaksi_id": "110",
+         "master_barang_id": "9",
+         "quantity": "3",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:04:11",
+         "updated_at": "2024-07-16 21:04:11"
+     },
+     {
+         "id": "295",
+         "transaksi_id": "110",
+         "master_barang_id": "10",
+         "quantity": "3",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 21:04:11",
+         "updated_at": "2024-07-16 21:04:11"
+     },
+     {
+         "id": "296",
+         "transaksi_id": "111",
+         "master_barang_id": "9",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:04:34",
+         "updated_at": "2024-07-16 21:04:34"
+     },
+     {
+         "id": "297",
+         "transaksi_id": "112",
+         "master_barang_id": "32",
+         "quantity": "1",
+         "harga_barang": "80000",
+         "created_at": "2024-07-16 21:05:07",
+         "updated_at": "2024-07-16 21:05:07"
+     },
+     {
+         "id": "298",
+         "transaksi_id": "113",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:05:24",
+         "updated_at": "2024-07-16 21:05:24"
+     },
+     {
+         "id": "299",
+         "transaksi_id": "114",
+         "master_barang_id": "1",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:06:52",
+         "updated_at": "2024-07-16 21:06:52"
+     },
+     {
+         "id": "300",
+         "transaksi_id": "114",
+         "master_barang_id": "9",
+         "quantity": "4",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:06:52",
+         "updated_at": "2024-07-16 21:06:52"
+     },
+     {
+         "id": "301",
+         "transaksi_id": "114",
+         "master_barang_id": "22",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:06:52",
+         "updated_at": "2024-07-16 21:06:52"
+     },
+     {
+         "id": "302",
+         "transaksi_id": "114",
+         "master_barang_id": "26",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:06:52",
+         "updated_at": "2024-07-16 21:06:52"
+     },
+     {
+         "id": "303",
+         "transaksi_id": "115",
+         "master_barang_id": "1",
+         "quantity": "3",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:08:41",
+         "updated_at": "2024-07-16 21:08:41"
+     },
+     {
+         "id": "304",
+         "transaksi_id": "115",
+         "master_barang_id": "9",
+         "quantity": "11",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:08:41",
+         "updated_at": "2024-07-16 21:08:41"
+     },
+     {
+         "id": "305",
+         "transaksi_id": "115",
+         "master_barang_id": "15",
+         "quantity": "1",
+         "harga_barang": "34000",
+         "created_at": "2024-07-16 21:08:42",
+         "updated_at": "2024-07-16 21:08:42"
+     },
+     {
+         "id": "306",
+         "transaksi_id": "115",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:08:42",
+         "updated_at": "2024-07-16 21:08:42"
+     },
+     {
+         "id": "307",
+         "transaksi_id": "116",
+         "master_barang_id": "9",
+         "quantity": "5",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:10:03",
+         "updated_at": "2024-07-16 21:10:03"
+     },
+     {
+         "id": "308",
+         "transaksi_id": "116",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 21:10:03",
+         "updated_at": "2024-07-16 21:10:03"
+     },
+     {
+         "id": "309",
+         "transaksi_id": "116",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:10:03",
+         "updated_at": "2024-07-16 21:10:03"
+     },
+     {
+         "id": "310",
+         "transaksi_id": "117",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:11:32",
+         "updated_at": "2024-07-16 21:11:32"
+     },
+     {
+         "id": "311",
+         "transaksi_id": "117",
+         "master_barang_id": "9",
+         "quantity": "10",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:11:32",
+         "updated_at": "2024-07-16 21:11:32"
+     },
+     {
+         "id": "312",
+         "transaksi_id": "117",
+         "master_barang_id": "22",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:11:32",
+         "updated_at": "2024-07-16 21:11:32"
+     },
+     {
+         "id": "313",
+         "transaksi_id": "117",
+         "master_barang_id": "12",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:11:32",
+         "updated_at": "2024-07-16 21:11:32"
+     },
+     {
+         "id": "314",
+         "transaksi_id": "118",
+         "master_barang_id": "1",
+         "quantity": "4",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:13:38",
+         "updated_at": "2024-07-16 21:13:38"
+     },
+     {
+         "id": "315",
+         "transaksi_id": "118",
+         "master_barang_id": "9",
+         "quantity": "10",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:13:38",
+         "updated_at": "2024-07-16 21:13:38"
+     },
+     {
+         "id": "316",
+         "transaksi_id": "119",
+         "master_barang_id": "1",
+         "quantity": "3",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:15:12",
+         "updated_at": "2024-07-16 21:15:12"
+     },
+     {
+         "id": "317",
+         "transaksi_id": "119",
+         "master_barang_id": "9",
+         "quantity": "9",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:15:12",
+         "updated_at": "2024-07-16 21:15:12"
+     },
+     {
+         "id": "318",
+         "transaksi_id": "119",
+         "master_barang_id": "10",
+         "quantity": "2",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 21:15:12",
+         "updated_at": "2024-07-16 21:15:12"
+     },
+     {
+         "id": "319",
+         "transaksi_id": "119",
+         "master_barang_id": "22",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:15:12",
+         "updated_at": "2024-07-16 21:15:12"
+     },
+     {
+         "id": "320",
+         "transaksi_id": "119",
+         "master_barang_id": "26",
+         "quantity": "6",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:15:12",
+         "updated_at": "2024-07-16 21:15:12"
+     },
+     {
+         "id": "321",
+         "transaksi_id": "120",
+         "master_barang_id": "1",
+         "quantity": "3",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:16:28",
+         "updated_at": "2024-07-16 21:16:28"
+     },
+     {
+         "id": "322",
+         "transaksi_id": "120",
+         "master_barang_id": "9",
+         "quantity": "5",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:16:28",
+         "updated_at": "2024-07-16 21:16:28"
+     },
+     {
+         "id": "323",
+         "transaksi_id": "120",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 21:16:28",
+         "updated_at": "2024-07-16 21:16:28"
+     },
+     {
+         "id": "324",
+         "transaksi_id": "120",
+         "master_barang_id": "26",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:16:28",
+         "updated_at": "2024-07-16 21:16:28"
+     },
+     {
+         "id": "325",
+         "transaksi_id": "121",
+         "master_barang_id": "1",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:17:52",
+         "updated_at": "2024-07-16 21:17:52"
+     },
+     {
+         "id": "326",
+         "transaksi_id": "121",
+         "master_barang_id": "9",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:17:52",
+         "updated_at": "2024-07-16 21:17:52"
+     },
+     {
+         "id": "327",
+         "transaksi_id": "121",
+         "master_barang_id": "12",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:17:52",
+         "updated_at": "2024-07-16 21:17:52"
+     },
+     {
+         "id": "328",
+         "transaksi_id": "122",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:18:23",
+         "updated_at": "2024-07-16 21:18:23"
+     },
+     {
+         "id": "329",
+         "transaksi_id": "122",
+         "master_barang_id": "9",
+         "quantity": "3",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:18:23",
+         "updated_at": "2024-07-16 21:18:23"
+     },
+     {
+         "id": "330",
+         "transaksi_id": "123",
+         "master_barang_id": "5",
+         "quantity": "3",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:19:07",
+         "updated_at": "2024-07-16 21:19:07"
+     },
+     {
+         "id": "331",
+         "transaksi_id": "124",
+         "master_barang_id": "1",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:22:25",
+         "updated_at": "2024-07-16 21:22:25"
+     },
+     {
+         "id": "332",
+         "transaksi_id": "124",
+         "master_barang_id": "9",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:22:25",
+         "updated_at": "2024-07-16 21:22:25"
+     },
+     {
+         "id": "333",
+         "transaksi_id": "124",
+         "master_barang_id": "10",
+         "quantity": "2",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 21:22:25",
+         "updated_at": "2024-07-16 21:22:25"
+     },
+     {
+         "id": "334",
+         "transaksi_id": "124",
+         "master_barang_id": "22",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:22:25",
+         "updated_at": "2024-07-16 21:22:25"
+     },
+     {
+         "id": "335",
+         "transaksi_id": "124",
+         "master_barang_id": "23",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:22:25",
+         "updated_at": "2024-07-16 21:22:25"
+     },
+     {
+         "id": "336",
+         "transaksi_id": "125",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:23:20",
+         "updated_at": "2024-07-16 21:23:20"
+     },
+     {
+         "id": "337",
+         "transaksi_id": "125",
+         "master_barang_id": "10",
+         "quantity": "3",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 21:23:20",
+         "updated_at": "2024-07-16 21:23:20"
+     },
+     {
+         "id": "338",
+         "transaksi_id": "126",
+         "master_barang_id": "1",
+         "quantity": "6",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:24:47",
+         "updated_at": "2024-07-16 21:24:47"
+     },
+     {
+         "id": "339",
+         "transaksi_id": "126",
+         "master_barang_id": "9",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:24:47",
+         "updated_at": "2024-07-16 21:24:47"
+     },
+     {
+         "id": "340",
+         "transaksi_id": "126",
+         "master_barang_id": "10",
+         "quantity": "3",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 21:24:47",
+         "updated_at": "2024-07-16 21:24:47"
+     },
+     {
+         "id": "341",
+         "transaksi_id": "126",
+         "master_barang_id": "22",
+         "quantity": "3",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:24:47",
+         "updated_at": "2024-07-16 21:24:47"
+     },
+     {
+         "id": "342",
+         "transaksi_id": "126",
+         "master_barang_id": "23",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:24:47",
+         "updated_at": "2024-07-16 21:24:47"
+     },
+     {
+         "id": "343",
+         "transaksi_id": "127",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:26:33",
+         "updated_at": "2024-07-16 21:26:33"
+     },
+     {
+         "id": "344",
+         "transaksi_id": "127",
+         "master_barang_id": "9",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:26:33",
+         "updated_at": "2024-07-16 21:26:33"
+     },
+     {
+         "id": "345",
+         "transaksi_id": "127",
+         "master_barang_id": "10",
+         "quantity": "6",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 21:26:33",
+         "updated_at": "2024-07-16 21:26:33"
+     },
+     {
+         "id": "346",
+         "transaksi_id": "127",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:26:33",
+         "updated_at": "2024-07-16 21:26:33"
+     },
+     {
+         "id": "347",
+         "transaksi_id": "127",
+         "master_barang_id": "23",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:26:33",
+         "updated_at": "2024-07-16 21:26:33"
+     },
+     {
+         "id": "348",
+         "transaksi_id": "128",
+         "master_barang_id": "9",
+         "quantity": "3",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:27:55",
+         "updated_at": "2024-07-16 21:27:55"
+     },
+     {
+         "id": "349",
+         "transaksi_id": "128",
+         "master_barang_id": "10",
+         "quantity": "2",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 21:27:55",
+         "updated_at": "2024-07-16 21:27:55"
+     },
+     {
+         "id": "350",
+         "transaksi_id": "128",
+         "master_barang_id": "13",
+         "quantity": "3",
+         "harga_barang": "45000",
+         "created_at": "2024-07-16 21:27:55",
+         "updated_at": "2024-07-16 21:27:55"
+     },
+     {
+         "id": "351",
+         "transaksi_id": "129",
+         "master_barang_id": "1",
+         "quantity": "3",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:28:58",
+         "updated_at": "2024-07-16 21:28:58"
+     },
+     {
+         "id": "352",
+         "transaksi_id": "129",
+         "master_barang_id": "5",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:28:58",
+         "updated_at": "2024-07-16 21:28:58"
+     },
+     {
+         "id": "353",
+         "transaksi_id": "129",
+         "master_barang_id": "18",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:28:58",
+         "updated_at": "2024-07-16 21:28:58"
+     },
+     {
+         "id": "354",
+         "transaksi_id": "130",
+         "master_barang_id": "1",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:29:43",
+         "updated_at": "2024-07-16 21:29:43"
+     },
+     {
+         "id": "355",
+         "transaksi_id": "130",
+         "master_barang_id": "10",
+         "quantity": "2",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 21:29:43",
+         "updated_at": "2024-07-16 21:29:43"
+     },
+     {
+         "id": "356",
+         "transaksi_id": "130",
+         "master_barang_id": "13",
+         "quantity": "2",
+         "harga_barang": "45000",
+         "created_at": "2024-07-16 21:29:43",
+         "updated_at": "2024-07-16 21:29:43"
+     },
+     {
+         "id": "357",
+         "transaksi_id": "131",
+         "master_barang_id": "10",
+         "quantity": "5",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 21:30:07",
+         "updated_at": "2024-07-16 21:30:07"
+     },
+     {
+         "id": "358",
+         "transaksi_id": "132",
+         "master_barang_id": "1",
+         "quantity": "10",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:32:43",
+         "updated_at": "2024-07-16 21:32:43"
+     },
+     {
+         "id": "359",
+         "transaksi_id": "132",
+         "master_barang_id": "5",
+         "quantity": "6",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:32:43",
+         "updated_at": "2024-07-16 21:32:43"
+     },
+     {
+         "id": "360",
+         "transaksi_id": "132",
+         "master_barang_id": "9",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:32:43",
+         "updated_at": "2024-07-16 21:32:43"
+     },
+     {
+         "id": "361",
+         "transaksi_id": "132",
+         "master_barang_id": "10",
+         "quantity": "13",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 21:32:43",
+         "updated_at": "2024-07-16 21:32:43"
+     },
+     {
+         "id": "362",
+         "transaksi_id": "132",
+         "master_barang_id": "13",
+         "quantity": "1",
+         "harga_barang": "45000",
+         "created_at": "2024-07-16 21:32:43",
+         "updated_at": "2024-07-16 21:32:43"
+     },
+     {
+         "id": "363",
+         "transaksi_id": "132",
+         "master_barang_id": "22",
+         "quantity": "5",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:32:43",
+         "updated_at": "2024-07-16 21:32:43"
+     },
+     {
+         "id": "364",
+         "transaksi_id": "133",
+         "master_barang_id": "2",
+         "quantity": "5",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:34:54",
+         "updated_at": "2024-07-16 21:34:54"
+     },
+     {
+         "id": "365",
+         "transaksi_id": "133",
+         "master_barang_id": "10",
+         "quantity": "6",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 21:34:54",
+         "updated_at": "2024-07-16 21:34:54"
+     },
+     {
+         "id": "366",
+         "transaksi_id": "133",
+         "master_barang_id": "1",
+         "quantity": "6",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:34:54",
+         "updated_at": "2024-07-16 21:34:54"
+     },
+     {
+         "id": "367",
+         "transaksi_id": "133",
+         "master_barang_id": "9",
+         "quantity": "5",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:34:54",
+         "updated_at": "2024-07-16 21:34:54"
+     },
+     {
+         "id": "368",
+         "transaksi_id": "133",
+         "master_barang_id": "13",
+         "quantity": "1",
+         "harga_barang": "45000",
+         "created_at": "2024-07-16 21:34:54",
+         "updated_at": "2024-07-16 21:34:54"
+     },
+     {
+         "id": "369",
+         "transaksi_id": "133",
+         "master_barang_id": "12",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:34:54",
+         "updated_at": "2024-07-16 21:34:54"
+     },
+     {
+         "id": "370",
+         "transaksi_id": "134",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:35:58",
+         "updated_at": "2024-07-16 21:35:58"
+     },
+     {
+         "id": "371",
+         "transaksi_id": "134",
+         "master_barang_id": "5",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:35:58",
+         "updated_at": "2024-07-16 21:35:58"
+     },
+     {
+         "id": "372",
+         "transaksi_id": "134",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 21:35:58",
+         "updated_at": "2024-07-16 21:35:58"
+     },
+     {
+         "id": "373",
+         "transaksi_id": "135",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:37:02",
+         "updated_at": "2024-07-16 21:37:02"
+     },
+     {
+         "id": "374",
+         "transaksi_id": "135",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:37:02",
+         "updated_at": "2024-07-16 21:37:02"
+     },
+     {
+         "id": "375",
+         "transaksi_id": "136",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:37:22",
+         "updated_at": "2024-07-16 21:37:22"
+     },
+     {
+         "id": "376",
+         "transaksi_id": "136",
+         "master_barang_id": "22",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:37:22",
+         "updated_at": "2024-07-16 21:37:22"
+     },
+     {
+         "id": "377",
+         "transaksi_id": "137",
+         "master_barang_id": "1",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:37:44",
+         "updated_at": "2024-07-16 21:37:44"
+     },
+     {
+         "id": "378",
+         "transaksi_id": "137",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 21:37:44",
+         "updated_at": "2024-07-16 21:37:44"
+     },
+     {
+         "id": "379",
+         "transaksi_id": "138",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:38:07",
+         "updated_at": "2024-07-16 21:38:07"
+     },
+     {
+         "id": "380",
+         "transaksi_id": "138",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 21:38:07",
+         "updated_at": "2024-07-16 21:38:07"
+     },
+     {
+         "id": "381",
+         "transaksi_id": "139",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:38:37",
+         "updated_at": "2024-07-16 21:38:37"
+     },
+     {
+         "id": "382",
+         "transaksi_id": "139",
+         "master_barang_id": "22",
+         "quantity": "3",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:38:37",
+         "updated_at": "2024-07-16 21:38:37"
+     },
+     {
+         "id": "383",
+         "transaksi_id": "140",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:38:51",
+         "updated_at": "2024-07-16 21:38:51"
+     },
+     {
+         "id": "384",
+         "transaksi_id": "141",
+         "master_barang_id": "16",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 21:39:22",
+         "updated_at": "2024-07-16 21:39:22"
+     },
+     {
+         "id": "385",
+         "transaksi_id": "142",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 21:39:38",
+         "updated_at": "2024-07-16 21:39:38"
+     },
+     {
+         "id": "386",
+         "transaksi_id": "143",
+         "master_barang_id": "10",
+         "quantity": "2",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 21:40:45",
+         "updated_at": "2024-07-16 21:40:45"
+     },
+     {
+         "id": "387",
+         "transaksi_id": "143",
+         "master_barang_id": "1",
+         "quantity": "9",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:40:45",
+         "updated_at": "2024-07-16 21:40:45"
+     },
+     {
+         "id": "388",
+         "transaksi_id": "144",
+         "master_barang_id": "1",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:41:34",
+         "updated_at": "2024-07-16 21:41:34"
+     },
+     {
+         "id": "389",
+         "transaksi_id": "144",
+         "master_barang_id": "25",
+         "quantity": "1",
+         "harga_barang": "40000",
+         "created_at": "2024-07-16 21:41:34",
+         "updated_at": "2024-07-16 21:41:34"
+     },
+     {
+         "id": "390",
+         "transaksi_id": "145",
+         "master_barang_id": "1",
+         "quantity": "8",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:44:08",
+         "updated_at": "2024-07-16 21:44:08"
+     },
+     {
+         "id": "391",
+         "transaksi_id": "145",
+         "master_barang_id": "7",
+         "quantity": "3",
+         "harga_barang": "40000",
+         "created_at": "2024-07-16 21:44:08",
+         "updated_at": "2024-07-16 21:44:08"
+     },
+     {
+         "id": "392",
+         "transaksi_id": "145",
+         "master_barang_id": "9",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:44:08",
+         "updated_at": "2024-07-16 21:44:08"
+     },
+     {
+         "id": "393",
+         "transaksi_id": "145",
+         "master_barang_id": "8",
+         "quantity": "2",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 21:44:08",
+         "updated_at": "2024-07-16 21:44:08"
+     },
+     {
+         "id": "394",
+         "transaksi_id": "145",
+         "master_barang_id": "28",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:44:08",
+         "updated_at": "2024-07-16 21:44:08"
+     },
+     {
+         "id": "395",
+         "transaksi_id": "145",
+         "master_barang_id": "30",
+         "quantity": "4",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:44:08",
+         "updated_at": "2024-07-16 21:44:08"
+     },
+     {
+         "id": "396",
+         "transaksi_id": "146",
+         "master_barang_id": "1",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:45:51",
+         "updated_at": "2024-07-16 21:45:51"
+     },
+     {
+         "id": "397",
+         "transaksi_id": "146",
+         "master_barang_id": "19",
+         "quantity": "2",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 21:45:51",
+         "updated_at": "2024-07-16 21:45:51"
+     },
+     {
+         "id": "398",
+         "transaksi_id": "146",
+         "master_barang_id": "17",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:45:51",
+         "updated_at": "2024-07-16 21:45:51"
+     },
+     {
+         "id": "399",
+         "transaksi_id": "147",
+         "master_barang_id": "1",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:46:31",
+         "updated_at": "2024-07-16 21:46:31"
+     },
+     {
+         "id": "400",
+         "transaksi_id": "147",
+         "master_barang_id": "5",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:46:31",
+         "updated_at": "2024-07-16 21:46:31"
+     },
+     {
+         "id": "401",
+         "transaksi_id": "147",
+         "master_barang_id": "34",
+         "quantity": "1",
+         "harga_barang": "95000",
+         "created_at": "2024-07-16 21:46:31",
+         "updated_at": "2024-07-16 21:46:31"
+     },
+     {
+         "id": "402",
+         "transaksi_id": "148",
+         "master_barang_id": "1",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:48:15",
+         "updated_at": "2024-07-16 21:48:15"
+     },
+     {
+         "id": "403",
+         "transaksi_id": "148",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 21:48:15",
+         "updated_at": "2024-07-16 21:48:15"
+     },
+     {
+         "id": "404",
+         "transaksi_id": "148",
+         "master_barang_id": "6",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:48:15",
+         "updated_at": "2024-07-16 21:48:15"
+     },
+     {
+         "id": "405",
+         "transaksi_id": "148",
+         "master_barang_id": "29",
+         "quantity": "1",
+         "harga_barang": "10000",
+         "created_at": "2024-07-16 21:48:15",
+         "updated_at": "2024-07-16 21:48:15"
+     },
+     {
+         "id": "406",
+         "transaksi_id": "148",
+         "master_barang_id": "34",
+         "quantity": "1",
+         "harga_barang": "95000",
+         "created_at": "2024-07-16 21:48:15",
+         "updated_at": "2024-07-16 21:48:15"
+     },
+     {
+         "id": "407",
+         "transaksi_id": "149",
+         "master_barang_id": "1",
+         "quantity": "12",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:50:05",
+         "updated_at": "2024-07-16 21:50:05"
+     },
+     {
+         "id": "408",
+         "transaksi_id": "149",
+         "master_barang_id": "7",
+         "quantity": "1",
+         "harga_barang": "40000",
+         "created_at": "2024-07-16 21:50:05",
+         "updated_at": "2024-07-16 21:50:05"
+     },
+     {
+         "id": "409",
+         "transaksi_id": "149",
+         "master_barang_id": "22",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:50:05",
+         "updated_at": "2024-07-16 21:50:05"
+     },
+     {
+         "id": "410",
+         "transaksi_id": "149",
+         "master_barang_id": "31",
+         "quantity": "1",
+         "harga_barang": "85000",
+         "created_at": "2024-07-16 21:50:05",
+         "updated_at": "2024-07-16 21:50:05"
+     },
+     {
+         "id": "411",
+         "transaksi_id": "150",
+         "master_barang_id": "1",
+         "quantity": "10",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:52:23",
+         "updated_at": "2024-07-16 21:52:23"
+     },
+     {
+         "id": "412",
+         "transaksi_id": "150",
+         "master_barang_id": "19",
+         "quantity": "4",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 21:52:23",
+         "updated_at": "2024-07-16 21:52:23"
+     },
+     {
+         "id": "413",
+         "transaksi_id": "150",
+         "master_barang_id": "20",
+         "quantity": "3",
+         "harga_barang": "45000",
+         "created_at": "2024-07-16 21:52:23",
+         "updated_at": "2024-07-16 21:52:23"
+     },
+     {
+         "id": "414",
+         "transaksi_id": "151",
+         "master_barang_id": "2",
+         "quantity": "3",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:53:19",
+         "updated_at": "2024-07-16 21:53:19"
+     },
+     {
+         "id": "415",
+         "transaksi_id": "151",
+         "master_barang_id": "14",
+         "quantity": "2",
+         "harga_barang": "100000",
+         "created_at": "2024-07-16 21:53:19",
+         "updated_at": "2024-07-16 21:53:19"
+     },
+     {
+         "id": "416",
+         "transaksi_id": "152",
+         "master_barang_id": "1",
+         "quantity": "3",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:53:34",
+         "updated_at": "2024-07-16 21:53:34"
+     },
+     {
+         "id": "417",
+         "transaksi_id": "153",
+         "master_barang_id": "1",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:54:38",
+         "updated_at": "2024-07-16 21:54:38"
+     },
+     {
+         "id": "418",
+         "transaksi_id": "153",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:54:38",
+         "updated_at": "2024-07-16 21:54:38"
+     },
+     {
+         "id": "419",
+         "transaksi_id": "153",
+         "master_barang_id": "34",
+         "quantity": "3",
+         "harga_barang": "95000",
+         "created_at": "2024-07-16 21:54:38",
+         "updated_at": "2024-07-16 21:54:38"
+     },
+     {
+         "id": "420",
+         "transaksi_id": "154",
+         "master_barang_id": "24",
+         "quantity": "2",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 21:55:21",
+         "updated_at": "2024-07-16 21:55:21"
+     },
+     {
+         "id": "421",
+         "transaksi_id": "154",
+         "master_barang_id": "21",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 21:55:21",
+         "updated_at": "2024-07-16 21:55:21"
+     },
+     {
+         "id": "422",
+         "transaksi_id": "155",
+         "master_barang_id": "3",
+         "quantity": "2",
+         "harga_barang": "65000",
+         "created_at": "2024-07-16 21:55:46",
+         "updated_at": "2024-07-16 21:55:46"
+     },
+     {
+         "id": "423",
+         "transaksi_id": "156",
+         "master_barang_id": "28",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:56:30",
+         "updated_at": "2024-07-16 21:56:30"
+     },
+     {
+         "id": "424",
+         "transaksi_id": "156",
+         "master_barang_id": "27",
+         "quantity": "3",
+         "harga_barang": "45000",
+         "created_at": "2024-07-16 21:56:30",
+         "updated_at": "2024-07-16 21:56:30"
+     },
+     {
+         "id": "425",
+         "transaksi_id": "157",
+         "master_barang_id": "1",
+         "quantity": "5",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:57:58",
+         "updated_at": "2024-07-16 21:57:58"
+     },
+     {
+         "id": "426",
+         "transaksi_id": "157",
+         "master_barang_id": "3",
+         "quantity": "4",
+         "harga_barang": "65000",
+         "created_at": "2024-07-16 21:57:58",
+         "updated_at": "2024-07-16 21:57:58"
+     },
+     {
+         "id": "427",
+         "transaksi_id": "157",
+         "master_barang_id": "5",
+         "quantity": "6",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 21:57:58",
+         "updated_at": "2024-07-16 21:57:58"
+     },
+     {
+         "id": "428",
+         "transaksi_id": "158",
+         "master_barang_id": "1",
+         "quantity": "7",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 21:59:10",
+         "updated_at": "2024-07-16 21:59:10"
+     },
+     {
+         "id": "429",
+         "transaksi_id": "158",
+         "master_barang_id": "4",
+         "quantity": "3",
+         "harga_barang": "40000",
+         "created_at": "2024-07-16 21:59:10",
+         "updated_at": "2024-07-16 21:59:10"
+     },
+     {
+         "id": "430",
+         "transaksi_id": "158",
+         "master_barang_id": "14",
+         "quantity": "3",
+         "harga_barang": "100000",
+         "created_at": "2024-07-16 21:59:10",
+         "updated_at": "2024-07-16 21:59:10"
+     },
+     {
+         "id": "431",
+         "transaksi_id": "159",
+         "master_barang_id": "1",
+         "quantity": "10",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 22:00:49",
+         "updated_at": "2024-07-16 22:00:49"
+     },
+     {
+         "id": "432",
+         "transaksi_id": "159",
+         "master_barang_id": "3",
+         "quantity": "5",
+         "harga_barang": "65000",
+         "created_at": "2024-07-16 22:00:49",
+         "updated_at": "2024-07-16 22:00:49"
+     },
+     {
+         "id": "433",
+         "transaksi_id": "160",
+         "master_barang_id": "31",
+         "quantity": "7",
+         "harga_barang": "85000",
+         "created_at": "2024-07-16 22:01:20",
+         "updated_at": "2024-07-16 22:01:20"
+     },
+     {
+         "id": "434",
+         "transaksi_id": "161",
+         "master_barang_id": "1",
+         "quantity": "8",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 22:03:48",
+         "updated_at": "2024-07-16 22:03:48"
+     },
+     {
+         "id": "435",
+         "transaksi_id": "161",
+         "master_barang_id": "2",
+         "quantity": "5",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 22:03:48",
+         "updated_at": "2024-07-16 22:03:48"
+     },
+     {
+         "id": "436",
+         "transaksi_id": "161",
+         "master_barang_id": "5",
+         "quantity": "5",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 22:03:48",
+         "updated_at": "2024-07-16 22:03:48"
+     },
+     {
+         "id": "437",
+         "transaksi_id": "161",
+         "master_barang_id": "29",
+         "quantity": "7",
+         "harga_barang": "10000",
+         "created_at": "2024-07-16 22:03:48",
+         "updated_at": "2024-07-16 22:03:48"
+     },
+     {
+         "id": "438",
+         "transaksi_id": "162",
+         "master_barang_id": "18",
+         "quantity": "4",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 22:06:09",
+         "updated_at": "2024-07-16 22:06:09"
+     },
+     {
+         "id": "439",
+         "transaksi_id": "162",
+         "master_barang_id": "19",
+         "quantity": "5",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 22:06:09",
+         "updated_at": "2024-07-16 22:06:09"
+     },
+     {
+         "id": "440",
+         "transaksi_id": "162",
+         "master_barang_id": "29",
+         "quantity": "6",
+         "harga_barang": "10000",
+         "created_at": "2024-07-16 22:06:09",
+         "updated_at": "2024-07-16 22:06:09"
+     },
+     {
+         "id": "441",
+         "transaksi_id": "163",
+         "master_barang_id": "1",
+         "quantity": "4",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 22:07:51",
+         "updated_at": "2024-07-16 22:07:51"
+     },
+     {
+         "id": "442",
+         "transaksi_id": "163",
+         "master_barang_id": "5",
+         "quantity": "3",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 22:07:51",
+         "updated_at": "2024-07-16 22:07:51"
+     },
+     {
+         "id": "443",
+         "transaksi_id": "163",
+         "master_barang_id": "4",
+         "quantity": "1",
+         "harga_barang": "40000",
+         "created_at": "2024-07-16 22:07:51",
+         "updated_at": "2024-07-16 22:07:51"
+     },
+     {
+         "id": "444",
+         "transaksi_id": "163",
+         "master_barang_id": "18",
+         "quantity": "1",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 22:07:51",
+         "updated_at": "2024-07-16 22:07:51"
+     },
+     {
+         "id": "445",
+         "transaksi_id": "163",
+         "master_barang_id": "20",
+         "quantity": "1",
+         "harga_barang": "45000",
+         "created_at": "2024-07-16 22:07:51",
+         "updated_at": "2024-07-16 22:07:51"
+     },
+     {
+         "id": "446",
+         "transaksi_id": "164",
+         "master_barang_id": "1",
+         "quantity": "3",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 22:09:27",
+         "updated_at": "2024-07-16 22:09:27"
+     },
+     {
+         "id": "447",
+         "transaksi_id": "164",
+         "master_barang_id": "11",
+         "quantity": "2",
+         "harga_barang": "80000",
+         "created_at": "2024-07-16 22:09:27",
+         "updated_at": "2024-07-16 22:09:27"
+     },
+     {
+         "id": "448",
+         "transaksi_id": "164",
+         "master_barang_id": "16",
+         "quantity": "3",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 22:09:27",
+         "updated_at": "2024-07-16 22:09:27"
+     },
+     {
+         "id": "449",
+         "transaksi_id": "165",
+         "master_barang_id": "1",
+         "quantity": "3",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 22:10:10",
+         "updated_at": "2024-07-16 22:10:10"
+     },
+     {
+         "id": "450",
+         "transaksi_id": "166",
+         "master_barang_id": "20",
+         "quantity": "3",
+         "harga_barang": "45000",
+         "created_at": "2024-07-16 22:10:36",
+         "updated_at": "2024-07-16 22:10:36"
+     },
+     {
+         "id": "451",
+         "transaksi_id": "167",
+         "master_barang_id": "4",
+         "quantity": "4",
+         "harga_barang": "40000",
+         "created_at": "2024-07-16 22:11:06",
+         "updated_at": "2024-07-16 22:11:06"
+     },
+     {
+         "id": "452",
+         "transaksi_id": "168",
+         "master_barang_id": "1",
+         "quantity": "4",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 22:13:15",
+         "updated_at": "2024-07-16 22:13:15"
+     },
+     {
+         "id": "453",
+         "transaksi_id": "168",
+         "master_barang_id": "5",
+         "quantity": "3",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 22:13:15",
+         "updated_at": "2024-07-16 22:13:15"
+     },
+     {
+         "id": "454",
+         "transaksi_id": "168",
+         "master_barang_id": "13",
+         "quantity": "5",
+         "harga_barang": "45000",
+         "created_at": "2024-07-16 22:13:15",
+         "updated_at": "2024-07-16 22:13:15"
+     },
+     {
+         "id": "455",
+         "transaksi_id": "168",
+         "master_barang_id": "19",
+         "quantity": "4",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 22:13:15",
+         "updated_at": "2024-07-16 22:13:15"
+     },
+     {
+         "id": "456",
+         "transaksi_id": "169",
+         "master_barang_id": "1",
+         "quantity": "7",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 22:15:24",
+         "updated_at": "2024-07-16 22:15:24"
+     },
+     {
+         "id": "457",
+         "transaksi_id": "169",
+         "master_barang_id": "5",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 22:15:24",
+         "updated_at": "2024-07-16 22:15:24"
+     },
+     {
+         "id": "458",
+         "transaksi_id": "169",
+         "master_barang_id": "10",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 22:15:24",
+         "updated_at": "2024-07-16 22:15:24"
+     },
+     {
+         "id": "459",
+         "transaksi_id": "169",
+         "master_barang_id": "7",
+         "quantity": "1",
+         "harga_barang": "40000",
+         "created_at": "2024-07-16 22:15:24",
+         "updated_at": "2024-07-16 22:15:24"
+     },
+     {
+         "id": "460",
+         "transaksi_id": "169",
+         "master_barang_id": "11",
+         "quantity": "1",
+         "harga_barang": "80000",
+         "created_at": "2024-07-16 22:15:24",
+         "updated_at": "2024-07-16 22:15:24"
+     },
+     {
+         "id": "461",
+         "transaksi_id": "169",
+         "master_barang_id": "12",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 22:15:24",
+         "updated_at": "2024-07-16 22:15:24"
+     },
+     {
+         "id": "462",
+         "transaksi_id": "169",
+         "master_barang_id": "19",
+         "quantity": "1",
+         "harga_barang": "30000",
+         "created_at": "2024-07-16 22:15:24",
+         "updated_at": "2024-07-16 22:15:24"
+     },
+     {
+         "id": "463",
+         "transaksi_id": "169",
+         "master_barang_id": "22",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 22:15:24",
+         "updated_at": "2024-07-16 22:15:24"
+     },
+     {
+         "id": "464",
+         "transaksi_id": "170",
+         "master_barang_id": "1",
+         "quantity": "5",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 22:16:46",
+         "updated_at": "2024-07-16 22:16:46"
+     },
+     {
+         "id": "465",
+         "transaksi_id": "170",
+         "master_barang_id": "2",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 22:16:46",
+         "updated_at": "2024-07-16 22:16:46"
+     },
+     {
+         "id": "466",
+         "transaksi_id": "170",
+         "master_barang_id": "12",
+         "quantity": "3",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 22:16:46",
+         "updated_at": "2024-07-16 22:16:46"
+     },
+     {
+         "id": "467",
+         "transaksi_id": "170",
+         "master_barang_id": "22",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 22:16:46",
+         "updated_at": "2024-07-16 22:16:46"
+     },
+     {
+         "id": "468",
+         "transaksi_id": "170",
+         "master_barang_id": "26",
+         "quantity": "5",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 22:16:46",
+         "updated_at": "2024-07-16 22:16:46"
+     },
+     {
+         "id": "469",
+         "transaksi_id": "171",
+         "master_barang_id": "1",
+         "quantity": "4",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 22:18:20",
+         "updated_at": "2024-07-16 22:18:20"
+     },
+     {
+         "id": "470",
+         "transaksi_id": "171",
+         "master_barang_id": "5",
+         "quantity": "3",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 22:18:20",
+         "updated_at": "2024-07-16 22:18:20"
+     },
+     {
+         "id": "471",
+         "transaksi_id": "171",
+         "master_barang_id": "12",
+         "quantity": "4",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 22:18:20",
+         "updated_at": "2024-07-16 22:18:20"
+     },
+     {
+         "id": "472",
+         "transaksi_id": "171",
+         "master_barang_id": "27",
+         "quantity": "2",
+         "harga_barang": "45000",
+         "created_at": "2024-07-16 22:18:20",
+         "updated_at": "2024-07-16 22:18:20"
+     },
+     {
+         "id": "473",
+         "transaksi_id": "172",
+         "master_barang_id": "1",
+         "quantity": "5",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 22:19:57",
+         "updated_at": "2024-07-16 22:19:57"
+     },
+     {
+         "id": "474",
+         "transaksi_id": "172",
+         "master_barang_id": "5",
+         "quantity": "4",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 22:19:57",
+         "updated_at": "2024-07-16 22:19:57"
+     },
+     {
+         "id": "475",
+         "transaksi_id": "172",
+         "master_barang_id": "12",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 22:19:57",
+         "updated_at": "2024-07-16 22:19:57"
+     },
+     {
+         "id": "476",
+         "transaksi_id": "172",
+         "master_barang_id": "22",
+         "quantity": "1",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 22:19:57",
+         "updated_at": "2024-07-16 22:19:57"
+     },
+     {
+         "id": "477",
+         "transaksi_id": "172",
+         "master_barang_id": "14",
+         "quantity": "1",
+         "harga_barang": "100000",
+         "created_at": "2024-07-16 22:19:57",
+         "updated_at": "2024-07-16 22:19:57"
+     },
+     {
+         "id": "478",
+         "transaksi_id": "173",
+         "master_barang_id": "1",
+         "quantity": "10",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 22:21:05",
+         "updated_at": "2024-07-16 22:21:05"
+     },
+     {
+         "id": "479",
+         "transaksi_id": "174",
+         "master_barang_id": "4",
+         "quantity": "5",
+         "harga_barang": "40000",
+         "created_at": "2024-07-16 22:21:45",
+         "updated_at": "2024-07-16 22:21:45"
+     },
+     {
+         "id": "480",
+         "transaksi_id": "174",
+         "master_barang_id": "13",
+         "quantity": "6",
+         "harga_barang": "45000",
+         "created_at": "2024-07-16 22:21:45",
+         "updated_at": "2024-07-16 22:21:45"
+     },
+     {
+         "id": "481",
+         "transaksi_id": "175",
+         "master_barang_id": "20",
+         "quantity": "4",
+         "harga_barang": "45000",
+         "created_at": "2024-07-16 22:22:08",
+         "updated_at": "2024-07-16 22:22:08"
+     },
+     {
+         "id": "482",
+         "transaksi_id": "176",
+         "master_barang_id": "1",
+         "quantity": "4",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 22:23:10",
+         "updated_at": "2024-07-16 22:23:10"
+     },
+     {
+         "id": "483",
+         "transaksi_id": "176",
+         "master_barang_id": "5",
+         "quantity": "2",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 22:23:10",
+         "updated_at": "2024-07-16 22:23:10"
+     },
+     {
+         "id": "484",
+         "transaksi_id": "176",
+         "master_barang_id": "3",
+         "quantity": "1",
+         "harga_barang": "65000",
+         "created_at": "2024-07-16 22:23:10",
+         "updated_at": "2024-07-16 22:23:10"
+     },
+     {
+         "id": "485",
+         "transaksi_id": "177",
+         "master_barang_id": "18",
+         "quantity": "5",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 22:23:28",
+         "updated_at": "2024-07-16 22:23:28"
+     },
+     {
+         "id": "486",
+         "transaksi_id": "178",
+         "master_barang_id": "3",
+         "quantity": "5",
+         "harga_barang": "65000",
+         "created_at": "2024-07-16 22:24:11",
+         "updated_at": "2024-07-16 22:24:11"
+     },
+     {
+         "id": "487",
+         "transaksi_id": "178",
+         "master_barang_id": "5",
+         "quantity": "5",
+         "harga_barang": "50000",
+         "created_at": "2024-07-16 22:24:11",
+         "updated_at": "2024-07-16 22:24:11"
+     },
+     {
+         "id": "488",
+         "transaksi_id": "178",
+         "master_barang_id": "1",
+         "quantity": "2",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 22:24:11",
+         "updated_at": "2024-07-16 22:24:11"
+     },
+     {
+         "id": "489",
+         "transaksi_id": "179",
+         "master_barang_id": "1",
+         "quantity": "3",
+         "harga_barang": "35000",
+         "created_at": "2024-07-16 22:24:55",
+         "updated_at": "2024-07-16 22:24:55"
+     }
+ ]

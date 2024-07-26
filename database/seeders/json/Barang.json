@@ -1,0 +1,206 @@
+[
+     {
+         "kode_barang": "B00001",
+         "nama_barang": "Buket Snack",
+         "harga_barang": "35000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00002",
+         "nama_barang": "Cellophane",
+         "harga_barang": "50000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00003",
+         "nama_barang": "Chocho Buket",
+         "harga_barang": "65000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00004",
+         "nama_barang": "Coffe Buket",
+         "harga_barang": "40000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00005",
+         "nama_barang": "Custom Buket",
+         "harga_barang": "50000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00006",
+         "nama_barang": "Custom Gift Box",
+         "harga_barang": "35000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00007",
+         "nama_barang": "Custom Frame ",
+         "harga_barang": "40000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00008",
+         "nama_barang": "Custom Box",
+         "harga_barang": "30000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00009",
+         "nama_barang": "Custom Order",
+         "harga_barang": "35000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00010",
+         "nama_barang": "Flower Buket",
+         "harga_barang": "30000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00011",
+         "nama_barang": "Gift Bear Box",
+         "harga_barang": "80000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00012",
+         "nama_barang": "Graduation Buket",
+         "harga_barang": "50000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00013",
+         "nama_barang": "Hijab Buket",
+         "harga_barang": "45000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00014",
+         "nama_barang": "Indomie Buket",
+         "harga_barang": "100000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00015",
+         "nama_barang": "Jasa Buket",
+         "harga_barang": "34000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00016",
+         "nama_barang": "Gift Buket",
+         "harga_barang": "30000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00017",
+         "nama_barang": "Jasa Box ",
+         "harga_barang": "35000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00018",
+         "nama_barang": "Kertas gift",
+         "harga_barang": "35000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00019",
+         "nama_barang": "Buket Kopi",
+         "harga_barang": "30000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00020",
+         "nama_barang": "Mini Bear Buket",
+         "harga_barang": "45000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00021",
+         "nama_barang": "Mini Gift",
+         "harga_barang": "30000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00022",
+         "nama_barang": "Money Buket",
+         "harga_barang": "50000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00023",
+         "nama_barang": "Polaroid Buket",
+         "harga_barang": "35000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00024",
+         "nama_barang": "Polaroid Frame",
+         "harga_barang": "30000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00025",
+         "nama_barang": "Pop Up Frame ",
+         "harga_barang": "40000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00026",
+         "nama_barang": "Buket Standart",
+         "harga_barang": "35000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00027",
+         "nama_barang": "Request order",
+         "harga_barang": "45000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00028",
+         "nama_barang": "Silverqueen Buket",
+         "harga_barang": "50000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00029",
+         "nama_barang": "Singel Rose ",
+         "harga_barang": "10000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00030",
+         "nama_barang": "Rokok Buket",
+         "harga_barang": "50000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00031",
+         "nama_barang": "Tower Buket",
+         "harga_barang": "85000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00032",
+         "nama_barang": "Tower buket Custom",
+         "harga_barang": "80000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00033",
+         "nama_barang": "Tower Snack",
+         "harga_barang": "85000",
+         "created_by": "1"
+     },
+     {
+         "kode_barang": "B00034",
+         "nama_barang": "Valentine Buket",
+         "harga_barang": "95000",
+         "created_by": "1"
+     }
+ ]

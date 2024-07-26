@@ -1,0 +1,1434 @@
+[
+     {
+         "id": "1",
+         "kode_transaksi": "T/IN/00001",
+         "type": "IN",
+         "created_by": "1",
+         "created_at": "2024-07-16 19:08:55",
+         "updated_at": "2024-07-16 19:08:55"
+     },
+     {
+         "id": "2",
+         "kode_transaksi": "T/OUT/00001",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-06-01 00:00:00",
+         "updated_at": "2024-07-16 19:10:56"
+     },
+     {
+         "id": "3",
+         "kode_transaksi": "T/OUT/00002",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-06-01 00:00:00",
+         "updated_at": "2024-07-16 19:13:38"
+     },
+     {
+         "id": "4",
+         "kode_transaksi": "T/OUT/00003",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-07-03 00:00:00",
+         "updated_at": "2024-07-16 19:14:59"
+     },
+     {
+         "id": "5",
+         "kode_transaksi": "T/OUT/00004",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-07-04 00:00:00",
+         "updated_at": "2024-07-16 19:15:24"
+     },
+     {
+         "id": "6",
+         "kode_transaksi": "T/OUT/00005",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-07-05 00:00:00",
+         "updated_at": "2024-07-16 19:18:10"
+     },
+     {
+         "id": "7",
+         "kode_transaksi": "T/OUT/00006",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-07-06 00:00:00",
+         "updated_at": "2024-07-16 19:20:29"
+     },
+     {
+         "id": "8",
+         "kode_transaksi": "T/OUT/00007",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-07-07 00:00:00",
+         "updated_at": "2024-07-16 19:25:30"
+     },
+     {
+         "id": "9",
+         "kode_transaksi": "T/OUT/00008",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-07-08 00:00:00",
+         "updated_at": "2024-07-16 19:28:15"
+     },
+     {
+         "id": "10",
+         "kode_transaksi": "T/OUT/00009",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-07-09 00:00:00",
+         "updated_at": "2024-07-16 19:30:31"
+     },
+     {
+         "id": "11",
+         "kode_transaksi": "T/OUT/00010",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-07-10 00:00:00",
+         "updated_at": "2024-07-16 19:31:59"
+     },
+     {
+         "id": "12",
+         "kode_transaksi": "T/OUT/00011",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-07-11 00:00:00",
+         "updated_at": "2024-07-16 19:33:24"
+     },
+     {
+         "id": "13",
+         "kode_transaksi": "T/OUT/00012",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-07-12 00:00:00",
+         "updated_at": "2024-07-16 19:35:07"
+     },
+     {
+         "id": "14",
+         "kode_transaksi": "T/OUT/00013",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-07-13 00:00:00",
+         "updated_at": "2024-07-16 19:35:59"
+     },
+     {
+         "id": "15",
+         "kode_transaksi": "T/OUT/00014",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-07-14 00:00:00",
+         "updated_at": "2024-07-16 19:37:07"
+     },
+     {
+         "id": "16",
+         "kode_transaksi": "T/OUT/00015",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-07-15 00:00:00",
+         "updated_at": "2024-07-16 19:39:12"
+     },
+     {
+         "id": "17",
+         "kode_transaksi": "T/OUT/00016",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-07-16 00:00:00",
+         "updated_at": "2024-07-16 19:40:58"
+     },
+     {
+         "id": "18",
+         "kode_transaksi": "T/OUT/00017",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-07-17 00:00:00",
+         "updated_at": "2024-07-16 19:42:46"
+     },
+     {
+         "id": "19",
+         "kode_transaksi": "T/OUT/00018",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-07-18 00:00:00",
+         "updated_at": "2024-07-16 19:45:24"
+     },
+     {
+         "id": "20",
+         "kode_transaksi": "T/OUT/00019",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-07-19 00:00:00",
+         "updated_at": "2024-07-16 19:46:19"
+     },
+     {
+         "id": "21",
+         "kode_transaksi": "T/OUT/00020",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-07-20 00:00:00",
+         "updated_at": "2024-07-16 19:47:56"
+     },
+     {
+         "id": "22",
+         "kode_transaksi": "T/OUT/00021",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-07-21 00:00:00",
+         "updated_at": "2024-07-16 19:49:41"
+     },
+     {
+         "id": "23",
+         "kode_transaksi": "T/OUT/00022",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-07-22 00:00:00",
+         "updated_at": "2024-07-16 19:51:46"
+     },
+     {
+         "id": "24",
+         "kode_transaksi": "T/OUT/00023",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-07-23 00:00:00",
+         "updated_at": "2024-07-16 19:52:19"
+     },
+     {
+         "id": "25",
+         "kode_transaksi": "T/OUT/00024",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-07-24 00:00:00",
+         "updated_at": "2024-07-16 19:53:27"
+     },
+     {
+         "id": "26",
+         "kode_transaksi": "T/OUT/00025",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-07-25 00:00:00",
+         "updated_at": "2024-07-16 19:55:08"
+     },
+     {
+         "id": "27",
+         "kode_transaksi": "T/OUT/00026",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-07-25 00:00:00",
+         "updated_at": "2024-07-16 19:55:27"
+     },
+     {
+         "id": "28",
+         "kode_transaksi": "T/OUT/00027",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-07-26 00:00:00",
+         "updated_at": "2024-07-16 19:56:09"
+     },
+     {
+         "id": "29",
+         "kode_transaksi": "T/OUT/00028",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-07-29 00:00:00",
+         "updated_at": "2024-07-16 19:57:12"
+     },
+     {
+         "id": "30",
+         "kode_transaksi": "T/OUT/00029",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-07-30 00:00:00",
+         "updated_at": "2024-07-16 19:58:19"
+     },
+     {
+         "id": "31",
+         "kode_transaksi": "T/OUT/00030",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-06-01 00:00:00",
+         "updated_at": "2024-07-16 19:59:15"
+     },
+     {
+         "id": "32",
+         "kode_transaksi": "T/OUT/00031",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-06-02 00:00:00",
+         "updated_at": "2024-07-16 19:59:39"
+     },
+     {
+         "id": "33",
+         "kode_transaksi": "T/OUT/00032",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-06-03 00:00:00",
+         "updated_at": "2024-07-16 20:00:35"
+     },
+     {
+         "id": "34",
+         "kode_transaksi": "T/OUT/00033",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-06-04 00:00:00",
+         "updated_at": "2024-07-16 20:02:22"
+     },
+     {
+         "id": "35",
+         "kode_transaksi": "T/OUT/00034",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-06-05 00:00:00",
+         "updated_at": "2024-07-16 20:03:18"
+     },
+     {
+         "id": "36",
+         "kode_transaksi": "T/OUT/00035",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-06-05 00:00:00",
+         "updated_at": "2024-07-16 20:04:18"
+     },
+     {
+         "id": "37",
+         "kode_transaksi": "T/OUT/00036",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-06-07 00:00:00",
+         "updated_at": "2024-07-16 20:05:03"
+     },
+     {
+         "id": "38",
+         "kode_transaksi": "T/OUT/00037",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-06-11 00:00:00",
+         "updated_at": "2024-07-16 20:06:09"
+     },
+     {
+         "id": "39",
+         "kode_transaksi": "T/OUT/00038",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-06-12 00:00:00",
+         "updated_at": "2024-07-16 20:07:21"
+     },
+     {
+         "id": "40",
+         "kode_transaksi": "T/OUT/00039",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-06-14 00:00:00",
+         "updated_at": "2024-07-16 20:07:55"
+     },
+     {
+         "id": "41",
+         "kode_transaksi": "T/OUT/00040",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-06-16 00:00:00",
+         "updated_at": "2024-07-16 20:08:07"
+     },
+     {
+         "id": "42",
+         "kode_transaksi": "T/OUT/00041",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-06-17 00:00:00",
+         "updated_at": "2024-07-16 20:08:42"
+     },
+     {
+         "id": "43",
+         "kode_transaksi": "T/OUT/00042",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-06-17 00:00:00",
+         "updated_at": "2024-07-16 20:09:11"
+     },
+     {
+         "id": "44",
+         "kode_transaksi": "T/OUT/00043",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-06-19 00:00:00",
+         "updated_at": "2024-07-16 20:09:54"
+     },
+     {
+         "id": "45",
+         "kode_transaksi": "T/OUT/00044",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-06-20 00:00:00",
+         "updated_at": "2024-07-16 20:11:25"
+     },
+     {
+         "id": "46",
+         "kode_transaksi": "T/OUT/00045",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-06-22 00:00:00",
+         "updated_at": "2024-07-16 20:12:23"
+     },
+     {
+         "id": "47",
+         "kode_transaksi": "T/OUT/00046",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-06-23 00:00:00",
+         "updated_at": "2024-07-16 20:12:40"
+     },
+     {
+         "id": "48",
+         "kode_transaksi": "T/OUT/00047",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-06-26 00:00:00",
+         "updated_at": "2024-07-16 20:13:24"
+     },
+     {
+         "id": "49",
+         "kode_transaksi": "T/OUT/00048",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2024-06-27 00:00:00",
+         "updated_at": "2024-07-16 20:13:57"
+     },
+     {
+         "id": "50",
+         "kode_transaksi": "T/OUT/00049",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-06-30 00:00:00",
+         "updated_at": "2024-07-16 20:17:07"
+     },
+     {
+         "id": "51",
+         "kode_transaksi": "T/OUT/00050",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-08-01 00:00:00",
+         "updated_at": "2024-07-16 20:17:42"
+     },
+     {
+         "id": "52",
+         "kode_transaksi": "T/OUT/00051",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-08-03 00:00:00",
+         "updated_at": "2024-07-16 20:18:01"
+     },
+     {
+         "id": "53",
+         "kode_transaksi": "T/OUT/00052",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-08-06 00:00:00",
+         "updated_at": "2024-07-16 20:18:39"
+     },
+     {
+         "id": "54",
+         "kode_transaksi": "T/OUT/00053",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-08-07 00:00:00",
+         "updated_at": "2024-07-16 20:19:22"
+     },
+     {
+         "id": "55",
+         "kode_transaksi": "T/OUT/00054",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-08-08 00:00:00",
+         "updated_at": "2024-07-16 20:19:43"
+     },
+     {
+         "id": "56",
+         "kode_transaksi": "T/OUT/00055",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-08-09 00:00:00",
+         "updated_at": "2024-07-16 20:20:09"
+     },
+     {
+         "id": "57",
+         "kode_transaksi": "T/OUT/00056",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-08-10 00:00:00",
+         "updated_at": "2024-07-16 20:20:24"
+     },
+     {
+         "id": "58",
+         "kode_transaksi": "T/OUT/00057",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-08-11 00:00:00",
+         "updated_at": "2024-07-16 20:21:01"
+     },
+     {
+         "id": "59",
+         "kode_transaksi": "T/OUT/00058",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-08-14 00:00:00",
+         "updated_at": "2024-07-16 20:21:46"
+     },
+     {
+         "id": "60",
+         "kode_transaksi": "T/OUT/00059",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-08-15 00:00:00",
+         "updated_at": "2024-07-16 20:22:45"
+     },
+     {
+         "id": "61",
+         "kode_transaksi": "T/OUT/00060",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-08-16 00:00:00",
+         "updated_at": "2024-07-16 20:23:04"
+     },
+     {
+         "id": "62",
+         "kode_transaksi": "T/OUT/00061",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-08-17 00:00:00",
+         "updated_at": "2024-07-16 20:24:18"
+     },
+     {
+         "id": "63",
+         "kode_transaksi": "T/OUT/00062",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-08-18 00:00:00",
+         "updated_at": "2024-07-16 20:24:39"
+     },
+     {
+         "id": "64",
+         "kode_transaksi": "T/OUT/00063",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-08-19 00:00:00",
+         "updated_at": "2024-07-16 20:24:57"
+     },
+     {
+         "id": "65",
+         "kode_transaksi": "T/OUT/00064",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-08-20 00:00:00",
+         "updated_at": "2024-07-16 20:25:26"
+     },
+     {
+         "id": "66",
+         "kode_transaksi": "T/OUT/00065",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-08-21 00:00:00",
+         "updated_at": "2024-07-16 20:26:02"
+     },
+     {
+         "id": "67",
+         "kode_transaksi": "T/OUT/00066",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-08-22 00:00:00",
+         "updated_at": "2024-07-16 20:26:34"
+     },
+     {
+         "id": "68",
+         "kode_transaksi": "T/OUT/00067",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-08-23 00:00:00",
+         "updated_at": "2024-07-16 20:27:02"
+     },
+     {
+         "id": "69",
+         "kode_transaksi": "T/OUT/00068",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-08-24 00:00:00",
+         "updated_at": "2024-07-16 20:27:23"
+     },
+     {
+         "id": "70",
+         "kode_transaksi": "T/OUT/00069",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-08-24 00:00:00",
+         "updated_at": "2024-07-16 20:27:59"
+     },
+     {
+         "id": "71",
+         "kode_transaksi": "T/OUT/00070",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-08-30 00:00:00",
+         "updated_at": "2024-07-16 20:28:26"
+     },
+     {
+         "id": "72",
+         "kode_transaksi": "T/OUT/00071",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-08-31 00:00:00",
+         "updated_at": "2024-07-16 20:28:51"
+     },
+     {
+         "id": "73",
+         "kode_transaksi": "T/OUT/00072",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-09-09 00:00:00",
+         "updated_at": "2024-07-16 20:35:19"
+     },
+     {
+         "id": "74",
+         "kode_transaksi": "T/OUT/00073",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-09-10 00:00:00",
+         "updated_at": "2024-07-16 20:35:36"
+     },
+     {
+         "id": "75",
+         "kode_transaksi": "T/OUT/00074",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-09-11 00:00:00",
+         "updated_at": "2024-07-16 20:36:09"
+     },
+     {
+         "id": "76",
+         "kode_transaksi": "T/OUT/00075",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-09-12 00:00:00",
+         "updated_at": "2024-07-16 20:36:44"
+     },
+     {
+         "id": "77",
+         "kode_transaksi": "T/OUT/00076",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-09-13 00:00:00",
+         "updated_at": "2024-07-16 20:37:25"
+     },
+     {
+         "id": "78",
+         "kode_transaksi": "T/OUT/00077",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-09-14 00:00:00",
+         "updated_at": "2024-07-16 20:38:55"
+     },
+     {
+         "id": "79",
+         "kode_transaksi": "T/OUT/00078",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-09-15 00:00:00",
+         "updated_at": "2024-07-16 20:39:48"
+     },
+     {
+         "id": "80",
+         "kode_transaksi": "T/OUT/00079",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-09-22 00:00:00",
+         "updated_at": "2024-07-16 20:40:43"
+     },
+     {
+         "id": "81",
+         "kode_transaksi": "T/OUT/00080",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-09-24 00:00:00",
+         "updated_at": "2024-07-16 20:41:16"
+     },
+     {
+         "id": "82",
+         "kode_transaksi": "T/OUT/00081",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-09-25 00:00:00",
+         "updated_at": "2024-07-16 20:41:31"
+     },
+     {
+         "id": "83",
+         "kode_transaksi": "T/OUT/00082",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-09-27 00:00:00",
+         "updated_at": "2024-07-16 20:42:52"
+     },
+     {
+         "id": "84",
+         "kode_transaksi": "T/OUT/00083",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-09-28 00:00:00",
+         "updated_at": "2024-07-16 20:43:31"
+     },
+     {
+         "id": "85",
+         "kode_transaksi": "T/OUT/00084",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-09-30 00:00:00",
+         "updated_at": "2024-07-16 20:44:45"
+     },
+     {
+         "id": "86",
+         "kode_transaksi": "T/OUT/00085",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-10-04 00:00:00",
+         "updated_at": "2024-07-16 20:46:18"
+     },
+     {
+         "id": "87",
+         "kode_transaksi": "T/OUT/00086",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-10-05 00:00:00",
+         "updated_at": "2024-07-16 20:46:48"
+     },
+     {
+         "id": "88",
+         "kode_transaksi": "T/OUT/00087",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-10-06 00:00:00",
+         "updated_at": "2024-07-16 20:47:36"
+     },
+     {
+         "id": "89",
+         "kode_transaksi": "T/OUT/00088",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-10-09 00:00:00",
+         "updated_at": "2024-07-16 20:48:01"
+     },
+     {
+         "id": "90",
+         "kode_transaksi": "T/OUT/00089",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-10-10 00:00:00",
+         "updated_at": "2024-07-16 20:50:25"
+     },
+     {
+         "id": "91",
+         "kode_transaksi": "T/OUT/00090",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-10-11 00:00:00",
+         "updated_at": "2024-07-16 20:52:10"
+     },
+     {
+         "id": "92",
+         "kode_transaksi": "T/OUT/00091",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-10-12 00:00:00",
+         "updated_at": "2024-07-16 20:52:50"
+     },
+     {
+         "id": "93",
+         "kode_transaksi": "T/OUT/00092",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-10-13 00:00:00",
+         "updated_at": "2024-07-16 20:53:24"
+     },
+     {
+         "id": "94",
+         "kode_transaksi": "T/OUT/00093",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-10-14 00:00:00",
+         "updated_at": "2024-07-16 20:53:39"
+     },
+     {
+         "id": "95",
+         "kode_transaksi": "T/OUT/00094",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-10-15 00:00:00",
+         "updated_at": "2024-07-16 20:54:02"
+     },
+     {
+         "id": "96",
+         "kode_transaksi": "T/OUT/00095",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-10-16 00:00:00",
+         "updated_at": "2024-07-16 20:54:48"
+     },
+     {
+         "id": "97",
+         "kode_transaksi": "T/OUT/00096",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-10-17 00:00:00",
+         "updated_at": "2024-07-16 20:55:31"
+     },
+     {
+         "id": "98",
+         "kode_transaksi": "T/OUT/00097",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-10-18 00:00:00",
+         "updated_at": "2024-07-16 20:56:03"
+     },
+     {
+         "id": "99",
+         "kode_transaksi": "T/OUT/00098",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-10-22 00:00:00",
+         "updated_at": "2024-07-16 20:57:09"
+     },
+     {
+         "id": "100",
+         "kode_transaksi": "T/OUT/00099",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-10-23 00:00:00",
+         "updated_at": "2024-07-16 20:57:41"
+     },
+     {
+         "id": "101",
+         "kode_transaksi": "T/OUT/00100",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-10-24 00:00:00",
+         "updated_at": "2024-07-16 20:59:04"
+     },
+     {
+         "id": "102",
+         "kode_transaksi": "T/OUT/00101",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-10-25 00:00:00",
+         "updated_at": "2024-07-16 21:00:09"
+     },
+     {
+         "id": "103",
+         "kode_transaksi": "T/OUT/00102",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-10-26 00:00:00",
+         "updated_at": "2024-07-16 21:00:34"
+     },
+     {
+         "id": "104",
+         "kode_transaksi": "T/OUT/00103",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-10-27 00:00:00",
+         "updated_at": "2024-07-16 21:00:46"
+     },
+     {
+         "id": "105",
+         "kode_transaksi": "T/OUT/00104",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-10-28 00:00:00",
+         "updated_at": "2024-07-16 21:01:28"
+     },
+     {
+         "id": "106",
+         "kode_transaksi": "T/OUT/00105",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-10-29 00:00:00",
+         "updated_at": "2024-07-16 21:02:01"
+     },
+     {
+         "id": "107",
+         "kode_transaksi": "T/OUT/00106",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-11-01 00:00:00",
+         "updated_at": "2024-07-16 21:03:07"
+     },
+     {
+         "id": "108",
+         "kode_transaksi": "T/OUT/00107",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-11-02 00:00:00",
+         "updated_at": "2024-07-16 21:03:26"
+     },
+     {
+         "id": "109",
+         "kode_transaksi": "T/OUT/00108",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-11-03 00:00:00",
+         "updated_at": "2024-07-16 21:03:39"
+     },
+     {
+         "id": "110",
+         "kode_transaksi": "T/OUT/00109",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-11-04 00:00:00",
+         "updated_at": "2024-07-16 21:04:11"
+     },
+     {
+         "id": "111",
+         "kode_transaksi": "T/OUT/00110",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-11-05 00:00:00",
+         "updated_at": "2024-07-16 21:04:34"
+     },
+     {
+         "id": "112",
+         "kode_transaksi": "T/OUT/00111",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-11-06 00:00:00",
+         "updated_at": "2024-07-16 21:05:07"
+     },
+     {
+         "id": "113",
+         "kode_transaksi": "T/OUT/00112",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-11-07 00:00:00",
+         "updated_at": "2024-07-16 21:05:24"
+     },
+     {
+         "id": "114",
+         "kode_transaksi": "T/OUT/00113",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-11-17 00:00:00",
+         "updated_at": "2024-07-16 21:06:52"
+     },
+     {
+         "id": "115",
+         "kode_transaksi": "T/OUT/00114",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-11-21 00:00:00",
+         "updated_at": "2024-07-16 21:08:41"
+     },
+     {
+         "id": "116",
+         "kode_transaksi": "T/OUT/00115",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-11-22 00:00:00",
+         "updated_at": "2024-07-16 21:10:03"
+     },
+     {
+         "id": "117",
+         "kode_transaksi": "T/OUT/00116",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-11-23 00:00:00",
+         "updated_at": "2024-07-16 21:11:32"
+     },
+     {
+         "id": "118",
+         "kode_transaksi": "T/OUT/00117",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-11-24 00:00:00",
+         "updated_at": "2024-07-16 21:13:38"
+     },
+     {
+         "id": "119",
+         "kode_transaksi": "T/OUT/00118",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-11-25 00:00:00",
+         "updated_at": "2024-07-16 21:15:12"
+     },
+     {
+         "id": "120",
+         "kode_transaksi": "T/OUT/00119",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-11-26 00:00:00",
+         "updated_at": "2024-07-16 21:16:28"
+     },
+     {
+         "id": "121",
+         "kode_transaksi": "T/OUT/00120",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-11-27 00:00:00",
+         "updated_at": "2024-07-16 21:17:52"
+     },
+     {
+         "id": "122",
+         "kode_transaksi": "T/OUT/00121",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-11-28 00:00:00",
+         "updated_at": "2024-07-16 21:18:23"
+     },
+     {
+         "id": "123",
+         "kode_transaksi": "T/OUT/00122",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-11-30 00:00:00",
+         "updated_at": "2024-07-16 21:19:07"
+     },
+     {
+         "id": "124",
+         "kode_transaksi": "T/OUT/00123",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-12-01 00:00:00",
+         "updated_at": "2024-07-16 21:22:25"
+     },
+     {
+         "id": "125",
+         "kode_transaksi": "T/OUT/00124",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-12-03 00:00:00",
+         "updated_at": "2024-07-16 21:23:20"
+     },
+     {
+         "id": "126",
+         "kode_transaksi": "T/OUT/00125",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-12-05 00:00:00",
+         "updated_at": "2024-07-16 21:24:47"
+     },
+     {
+         "id": "127",
+         "kode_transaksi": "T/OUT/00126",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-12-14 00:00:00",
+         "updated_at": "2024-07-16 21:26:33"
+     },
+     {
+         "id": "128",
+         "kode_transaksi": "T/OUT/00127",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-12-15 00:00:00",
+         "updated_at": "2024-07-16 21:27:55"
+     },
+     {
+         "id": "129",
+         "kode_transaksi": "T/OUT/00128",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-12-16 00:00:00",
+         "updated_at": "2024-07-16 21:28:58"
+     },
+     {
+         "id": "130",
+         "kode_transaksi": "T/OUT/00129",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-12-17 00:00:00",
+         "updated_at": "2024-07-16 21:29:43"
+     },
+     {
+         "id": "131",
+         "kode_transaksi": "T/OUT/00130",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-12-18 00:00:00",
+         "updated_at": "2024-07-16 21:30:07"
+     },
+     {
+         "id": "132",
+         "kode_transaksi": "T/OUT/00131",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-12-22 00:00:00",
+         "updated_at": "2024-07-16 21:32:43"
+     },
+     {
+         "id": "133",
+         "kode_transaksi": "T/OUT/00132",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-12-23 00:00:00",
+         "updated_at": "2024-07-16 21:34:54"
+     },
+     {
+         "id": "134",
+         "kode_transaksi": "T/OUT/00133",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-12-28 00:00:00",
+         "updated_at": "2024-07-16 21:35:58"
+     },
+     {
+         "id": "135",
+         "kode_transaksi": "T/OUT/00134",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-01-01 00:00:00",
+         "updated_at": "2024-07-16 21:37:02"
+     },
+     {
+         "id": "136",
+         "kode_transaksi": "T/OUT/00135",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-01-01 00:00:00",
+         "updated_at": "2024-07-16 21:37:22"
+     },
+     {
+         "id": "137",
+         "kode_transaksi": "T/OUT/00136",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-01-03 00:00:00",
+         "updated_at": "2024-07-16 21:37:44"
+     },
+     {
+         "id": "138",
+         "kode_transaksi": "T/OUT/00137",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-01-04 00:00:00",
+         "updated_at": "2024-07-16 21:38:07"
+     },
+     {
+         "id": "139",
+         "kode_transaksi": "T/OUT/00138",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-01-05 00:00:00",
+         "updated_at": "2024-07-16 21:38:37"
+     },
+     {
+         "id": "140",
+         "kode_transaksi": "T/OUT/00139",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-01-06 00:00:00",
+         "updated_at": "2024-07-16 21:38:51"
+     },
+     {
+         "id": "141",
+         "kode_transaksi": "T/OUT/00140",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-01-07 00:00:00",
+         "updated_at": "2024-07-16 21:39:22"
+     },
+     {
+         "id": "142",
+         "kode_transaksi": "T/OUT/00141",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-01-08 00:00:00",
+         "updated_at": "2024-07-16 21:39:38"
+     },
+     {
+         "id": "143",
+         "kode_transaksi": "T/OUT/00142",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-01-09 00:00:00",
+         "updated_at": "2024-07-16 21:40:45"
+     },
+     {
+         "id": "144",
+         "kode_transaksi": "T/OUT/00143",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-01-11 00:00:00",
+         "updated_at": "2024-07-16 21:41:34"
+     },
+     {
+         "id": "145",
+         "kode_transaksi": "T/OUT/00144",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-01-21 00:00:00",
+         "updated_at": "2024-07-16 21:44:08"
+     },
+     {
+         "id": "146",
+         "kode_transaksi": "T/OUT/00145",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-01-25 00:00:00",
+         "updated_at": "2024-07-16 21:45:51"
+     },
+     {
+         "id": "147",
+         "kode_transaksi": "T/OUT/00146",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-01-26 00:00:00",
+         "updated_at": "2024-07-16 21:46:31"
+     },
+     {
+         "id": "148",
+         "kode_transaksi": "T/OUT/00147",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-01-29 00:00:00",
+         "updated_at": "2024-07-16 21:48:15"
+     },
+     {
+         "id": "149",
+         "kode_transaksi": "T/OUT/00148",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-01-31 00:00:00",
+         "updated_at": "2024-07-16 21:50:05"
+     },
+     {
+         "id": "150",
+         "kode_transaksi": "T/OUT/00149",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-02-06 00:00:00",
+         "updated_at": "2024-07-16 21:52:23"
+     },
+     {
+         "id": "151",
+         "kode_transaksi": "T/OUT/00150",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-02-07 00:00:00",
+         "updated_at": "2024-07-16 21:53:19"
+     },
+     {
+         "id": "152",
+         "kode_transaksi": "T/OUT/00151",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-02-08 00:00:00",
+         "updated_at": "2024-07-16 21:53:34"
+     },
+     {
+         "id": "153",
+         "kode_transaksi": "T/OUT/00152",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-02-09 00:00:00",
+         "updated_at": "2024-07-16 21:54:38"
+     },
+     {
+         "id": "154",
+         "kode_transaksi": "T/OUT/00153",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-02-10 00:00:00",
+         "updated_at": "2024-07-16 21:55:21"
+     },
+     {
+         "id": "155",
+         "kode_transaksi": "T/OUT/00154",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-02-11 00:00:00",
+         "updated_at": "2024-07-16 21:55:46"
+     },
+     {
+         "id": "156",
+         "kode_transaksi": "T/OUT/00155",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-02-13 00:00:00",
+         "updated_at": "2024-07-16 21:56:30"
+     },
+     {
+         "id": "157",
+         "kode_transaksi": "T/OUT/00156",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-02-16 00:00:00",
+         "updated_at": "2024-07-16 21:57:58"
+     },
+     {
+         "id": "158",
+         "kode_transaksi": "T/OUT/00157",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-02-21 00:00:00",
+         "updated_at": "2024-07-16 21:59:10"
+     },
+     {
+         "id": "159",
+         "kode_transaksi": "T/OUT/00158",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-02-26 00:00:00",
+         "updated_at": "2024-07-16 22:00:49"
+     },
+     {
+         "id": "160",
+         "kode_transaksi": "T/OUT/00159",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-02-28 00:00:00",
+         "updated_at": "2024-07-16 22:01:20"
+     },
+     {
+         "id": "161",
+         "kode_transaksi": "T/OUT/00160",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-03-11 00:00:00",
+         "updated_at": "2024-07-16 22:03:48"
+     },
+     {
+         "id": "162",
+         "kode_transaksi": "T/OUT/00161",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-03-11 00:00:00",
+         "updated_at": "2024-07-16 22:06:09"
+     },
+     {
+         "id": "163",
+         "kode_transaksi": "T/OUT/00162",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-03-18 00:00:00",
+         "updated_at": "2024-07-16 22:07:51"
+     },
+     {
+         "id": "164",
+         "kode_transaksi": "T/OUT/00163",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-03-29 00:00:00",
+         "updated_at": "2024-07-16 22:09:27"
+     },
+     {
+         "id": "165",
+         "kode_transaksi": "T/OUT/00164",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-04-03 00:00:00",
+         "updated_at": "2024-07-16 22:10:10"
+     },
+     {
+         "id": "166",
+         "kode_transaksi": "T/OUT/00165",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-04-04 00:00:00",
+         "updated_at": "2024-07-16 22:10:36"
+     },
+     {
+         "id": "167",
+         "kode_transaksi": "T/OUT/00166",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-04-16 00:00:00",
+         "updated_at": "2024-07-16 22:11:06"
+     },
+     {
+         "id": "168",
+         "kode_transaksi": "T/OUT/00167",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-05-03 00:00:00",
+         "updated_at": "2024-07-16 22:13:15"
+     },
+     {
+         "id": "169",
+         "kode_transaksi": "T/OUT/00168",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-05-10 00:00:00",
+         "updated_at": "2024-07-16 22:15:24"
+     },
+     {
+         "id": "170",
+         "kode_transaksi": "T/OUT/00169",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-05-10 00:00:00",
+         "updated_at": "2024-07-16 22:16:46"
+     },
+     {
+         "id": "171",
+         "kode_transaksi": "T/OUT/00170",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-05-18 00:00:00",
+         "updated_at": "2024-07-16 22:18:20"
+     },
+     {
+         "id": "172",
+         "kode_transaksi": "T/OUT/00171",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-05-18 00:00:00",
+         "updated_at": "2024-07-16 22:19:57"
+     },
+     {
+         "id": "173",
+         "kode_transaksi": "T/OUT/00172",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-05-26 00:00:00",
+         "updated_at": "2024-07-16 22:21:05"
+     },
+     {
+         "id": "174",
+         "kode_transaksi": "T/OUT/00173",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-05-24 00:00:00",
+         "updated_at": "2024-07-16 22:21:45"
+     },
+     {
+         "id": "175",
+         "kode_transaksi": "T/OUT/00174",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-05-23 00:00:00",
+         "updated_at": "2024-07-16 22:22:08"
+     },
+     {
+         "id": "176",
+         "kode_transaksi": "T/OUT/00175",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-05-27 00:00:00",
+         "updated_at": "2024-07-16 22:23:10"
+     },
+     {
+         "id": "177",
+         "kode_transaksi": "T/OUT/00176",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-05-28 00:00:00",
+         "updated_at": "2024-07-16 22:23:28"
+     },
+     {
+         "id": "178",
+         "kode_transaksi": "T/OUT/00177",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-05-28 00:00:00",
+         "updated_at": "2024-07-16 22:24:11"
+     },
+     {
+         "id": "179",
+         "kode_transaksi": "T/OUT/00178",
+         "type": "OUT",
+         "created_by": "1",
+         "created_at": "2023-05-29 00:00:00",
+         "updated_at": "2024-07-16 22:24:55"
+     }
+ ]
