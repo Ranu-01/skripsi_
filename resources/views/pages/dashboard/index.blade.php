@@ -22,6 +22,15 @@
                         data: "item_id"
                     },
                     {
+                        data: "pembelian"
+                    },
+                    {
+                        data: "penjualan"
+                    },
+                    {
+                        data: "stock"
+                    },
+                    {
                         data: "sale_date"
                     },
                     {
@@ -136,6 +145,9 @@
                         <thead>
                             <tr>
                                 <th>ID Barang</th>
+                                <th>Pembelian</th>
+                                <th>Penjualan</th>
+                                <th>Stock</th>
                                 <th>Bulan Tahun</th>
                                 <th>Safety Stock</th>
                                 <th>Average Per Item</th>
