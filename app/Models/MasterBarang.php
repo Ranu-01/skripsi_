@@ -126,52 +126,52 @@ class MasterBarang extends Model
     public static function getPerhitungan()
     {
         return DB::table('detail_transaksis AS dt')
-    ->select([
-        'dt.master_barang_id AS item_id',
-        DB::raw('SUM(CASE WHEN t.type = \'IN\' THEN dt.quantity ELSE 0 END) as pembelian'),
-        DB::raw('SUM(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END) as penjualan'),
-        DB::raw('GREATEST(SUM(CASE WHEN t.type = \'IN\' THEN dt.quantity ELSE 0 END) - SUM(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END), 0) as stock'),
-        DB::raw('ROUND(SUM(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END) / 30) * 1 AS safety_stock'),
-        DB::raw('AVG(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END) AS avg_peritem'),
-        DB::raw('DATE_FORMAT(t.created_at, "%Y%m") AS sale_date'),
-        DB::raw('(AVG(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END) * 1 + (ROUND(SUM(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END) / 30) * 1)) AS min'),
-        DB::raw('(2 * (AVG(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END) * 1 + (ROUND(SUM(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END) / 30) * 1))) AS max'),
-        DB::raw('((2 * (AVG(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END) * 1 + (ROUND(SUM(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END) / 30) * 1))) - (AVG(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END) * 1 + (ROUND(SUM(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END) / 30) * 1))) AS Q'),
-    ])
-    ->join('transaksis AS t', 't.id', '=', 'dt.transaksi_id')
-    ->join('master_barangs AS mb', 'mb.id', '=', 'dt.master_barang_id')
-    ->groupBy(DB::raw('DATE_FORMAT(t.created_at, "%Y%m")'), 'mb.id')
-    ->orderBy('mb.id', 'DESC')
-    ->orderBy(DB::raw('DATE_FORMAT(t.created_at, "%Y%m")'), 'DESC')
-    ->get();
+            ->select([
+                'dt.master_barang_id AS item_id',
+                DB::raw('SUM(CASE WHEN t.type = \'IN\' THEN dt.quantity ELSE 0 END) as pembelian'),
+                DB::raw('SUM(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END) as penjualan'),
+                DB::raw('GREATEST(SUM(CASE WHEN t.type = \'IN\' THEN dt.quantity ELSE 0 END) - SUM(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END), 0) as stock'),
+                DB::raw('ROUND(SUM(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END) / 30) * 1 AS safety_stock'),
+                DB::raw('AVG(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END) AS avg_peritem'),
+                DB::raw('DATE_FORMAT(t.created_at, "%Y%m") AS sale_date'),
+                DB::raw('(AVG(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END) * 1 + (ROUND(SUM(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END) / 30) * 1)) AS min'),
+                DB::raw('(2 * (AVG(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END) * 1 + (ROUND(SUM(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END) / 30) * 1))) AS max'),
+                DB::raw('((2 * (AVG(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END) * 1 + (ROUND(SUM(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END) / 30) * 1))) - (AVG(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END) * 1 + (ROUND(SUM(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END) / 30) * 1))) AS Q'),
+            ])
+            ->join('transaksis AS t', 't.id', '=', 'dt.transaksi_id')
+            ->join('master_barangs AS mb', 'mb.id', '=', 'dt.master_barang_id')
+            ->groupBy(DB::raw('DATE_FORMAT(t.created_at, "%Y%m")'), 'mb.id')
+            ->orderBy('mb.id', 'DESC')
+            ->orderBy(DB::raw('DATE_FORMAT(t.created_at, "%Y%m")'), 'DESC')
+            ->get();
 
 
 
         // PERHITUNGAN BARU
-    //     return DB::table('detail_transaksis as dt')
-    // ->select([
-    //     'mb.id as item_barang',
-    //     DB::raw('DATE_FORMAT(t.created_at, "%Y%m") as bulan'),
-    //     DB::raw('SUM(CASE WHEN t.type = \'IN\' THEN dt.quantity ELSE 0 END) as pembelian'),
-    //     DB::raw('SUM(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END) as penjualan'),
-    //     DB::raw('GREATEST(SUM(CASE WHEN t.type = \'IN\' THEN dt.quantity ELSE 0 END) - SUM(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END), 0) as stock'),
-    //     DB::raw('AVG(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END) OVER (PARTITION BY mb.id) as penjualan_rata_rata_bulan'),
-    //     DB::raw('SUM(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END) as min_stock'),
-    //     DB::raw('SUM(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END) * 2 as max_stock'),
-    //     DB::raw('SUM(CASE WHEN t.type = \'OUT\' THEN ROUND(dt.quantity / 30) ELSE 0 END) as safety_stock'),
-    // ])
-    // ->join('transaksis as t', 't.id', '=', 'dt.transaksi_id')
-    // ->join('master_barangs as mb', 'mb.id', '=', 'dt.master_barang_id')
-    // ->groupBy([
-    //     'mb.id',
-    //     DB::raw('DATE_FORMAT(t.created_at, "%Y%m")')
-    // ])
-    // ->orderBy([
-    //     'mb.id' => 'desc',
-    //     DB::raw('DATE_FORMAT(t.created_at, "%Y%m")') => 'desc'
-    // ])
-    // ->get();
+        //     return DB::table('detail_transaksis as dt')
+        // ->select([
+        //     'mb.id as item_barang',
+        //     DB::raw('DATE_FORMAT(t.created_at, "%Y%m") as bulan'),
+        //     DB::raw('SUM(CASE WHEN t.type = \'IN\' THEN dt.quantity ELSE 0 END) as pembelian'),
+        //     DB::raw('SUM(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END) as penjualan'),
+        //     DB::raw('GREATEST(SUM(CASE WHEN t.type = \'IN\' THEN dt.quantity ELSE 0 END) - SUM(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END), 0) as stock'),
+        //     DB::raw('AVG(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END) OVER (PARTITION BY mb.id) as penjualan_rata_rata_bulan'),
+        //     DB::raw('SUM(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END) as min_stock'),
+        //     DB::raw('SUM(CASE WHEN t.type = \'OUT\' THEN dt.quantity ELSE 0 END) * 2 as max_stock'),
+        //     DB::raw('SUM(CASE WHEN t.type = \'OUT\' THEN ROUND(dt.quantity / 30) ELSE 0 END) as safety_stock'),
+        // ])
+        // ->join('transaksis as t', 't.id', '=', 'dt.transaksi_id')
+        // ->join('master_barangs as mb', 'mb.id', '=', 'dt.master_barang_id')
+        // ->groupBy([
+        //     'mb.id',
+        //     DB::raw('DATE_FORMAT(t.created_at, "%Y%m")')
+        // ])
+        // ->orderBy([
+        //     'mb.id' => 'desc',
+        //     DB::raw('DATE_FORMAT(t.created_at, "%Y%m")') => 'desc'
+        // ])
+        // ->get();
 
-        
+
     }
 }
